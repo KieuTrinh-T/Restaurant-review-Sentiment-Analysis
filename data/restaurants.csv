@@ -1,0 +1,121 @@
+id,name,rating,rating_count,address,district
+1,The Little Door,4.5,345,"62 Trương Quyền, Phường 6, Quận 3, Thành phố Hồ Chí Minh 70000",Quận 3
+2,Côn Sơn Restaurant & Lounge,4.3,114,"80-84 Trần Quốc Thảo, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh 700000",Quận 3
+3,Nhà Hàng Cơm Tấm Kim Kê,4.7,3,"60 Trường Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+4,Nhà Hàng Chả Cá Lã Vọng,4.4,17,"53 Đ. Lam Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 700000",Tân Bình
+5,Com Ngon & Cong Chua Pot Restaurant,3.9,15,"Parkson Tân Bình, 60A, Trường Sơn, Quận Tân Bình, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+6,Nhà Hàng Vựa Hải Sản Hòn Đảo,4.0,145,"48/1 Đ. Lam Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+7,Qua Ngon Restaurant,4.1,1,"308 Đ. Lê Văn Sỹ, Phường 1, Tân Bình, Thành phố Hồ Chí Minh 700000",Tân Bình
+8,Nhà Hàng Hoa viên Tri Kỷ,4.0,1,"123 Đ. Hồng Hà, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh",Phú Nhuận
+9,Dat Tien Sa Restaurant,3.8,145,"3 Đống Đa, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+10,Nhà hàng cây sung,3.7,232,"12c Đ. Bạch Đằng, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+11,Quán Ăn Huế Hoàng Gia,4.1,112,"42 Đ. Lam Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 700000",Tân Bình
+12,Nhà Hàng Hương Cau 1,4.0,1,"234 Đ. Lê Văn Sỹ, Phường 1, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+13,Nhà Hàng Cơm Niêu Trường Sơn,3.9,94,"46 Đ. Phan Đình Giót, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 700000",Tân Bình
+14,Nhà Hàng Vườn Dừa,3.5,194,"12 Đ. Phan Đình Giót, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+15,MỘC Riêu & Nướng,4.0,650,"9A Đ. Lam Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+16,Nhà hàng Hương Vị Bắc,3.7,3,"53 Đ. Lam Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 700000",Tân Bình
+17,Nhà Hàng Ẩm Thực Farm 2,3.9,145,"31 Yên Thế, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+18,Nhà Hàng Quế Lâm Quán,3.9,96,"2 Huỳnh Lan Khanh, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+19,Nhà Hàng Hoàng Long,4.3,96,"3 Phạm Văn Hai, Phường 1, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+20,Nhà hàng Sky,4.2,77,"200 Hoàng Văn Thụ, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh",Phú Nhuận
+21,Garden Town Restaurant Tan Binh,3.8,1,"A2 Đ. Phan Đình Giót, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+22,Cơm Rang Dưa Bò,3.3,6,"48 Hồng Hà, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+23,Niêu Ta Lounge & Restaurant,4.5,53,"Hẻm 191, 191/5 Hoàng Văn Thụ, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh",Phú Nhuận
+24,Nhà Hàng Cơm Niêu Việt Nam,4.0,215,"234 Đ. Cộng Hòa, Phường 12, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+25,Hansol Restaurant 한솔식당,4.4,1,"114 Thăng Long, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+26,Nhà Hàng Cây Mít,4.0,8,"21 Hậu Giang, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+27,Bún chả Vân Anh,4.0,448,"36 Hồng Hà, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+28,Nhà Hàng Lynh Anh,4.3,43,"191A Hoàng Văn Thụ, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh 70000",Phú Nhuận
+29,Làng Vũ Đại Restaurant,4.1,86,"396 Đ. Lê Văn Sỹ, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+30,Cơm Cậu Cả,4.3,38,"58A Hồng Hà, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+31,Nhà Hàng Chef Mamma`s,4.2,468,"25 Hậu Giang, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+33,Nhà hàng Tokyo Deli,4.2,1,"4 Trường Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+34,Nhà Hàng Điểm Hẹn,4.0,23,"133 Đ. Hồng Hà, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh",Phú Nhuận
+35,Big Bowl,2.0,17,"RM87+GHP, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+38,San Fu Lou - Cantonese Kitchen (Trường Sơn),4.2,101,"18A Trường Sơn, phường 02, Tân Bình, Thành phố Hồ Chí Minh 70000",Tân Bình
+40,Yeebo Hotpot Seafood Restaurant,4.2,468,"76 Đ. Nguyễn Văn Trỗi, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh",Phú Nhuận
+41,Nhà hàng Mu Cung Hoa,4.8,17,"14 Đ. Ba Vì, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+42,Nhà Hàng Tri Kì,4.3,4,"101 Đ. Hồng Hà, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh",Phú Nhuận
+43,Nhà Hàng Tiệc Cưới Đông Phương,4.4,14,"431 Hoàng Văn Thụ, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+44,Hoang Yen Vietnamese Cuisine,4.1,626,"148 Hai Bà Trưng, Đa Kao, Quận 1, Thành phố Hồ Chí Minh 907777",Quận 1
+46,191 Seafood Restaurant,4.4,15,"191A Hoàng Văn Thụ, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh",Phú Nhuận
+47,Nhà Hàng Hàn Quốc Kim Gia,5.0,1,"112 Thăng Long, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+48,Quán 179,4.0,202,"B80 Đ. Bạch Đằng, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+49,Nhà Hàng Cơm Chay Hương Sen,4.4,389,"143 Hồ Văn Huê, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh",Phú Nhuận
+50,Hoa Vien Brauhaus Tan Binh,4.1,1,"16 Đ. Phổ Quang, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+51,Nhà Hàng Hàu Né 3 Ngon - Bò Sốt Phố,3.0,6,"16-18 Hoàng Minh Giám, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh",Phú Nhuận
+52,Nhà hàng hải sản Big seafood,5.0,2,"38 Đ. Bạch Đằng, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+53,Gia Dinh Ngon Restaurant,4.2,108,"234 Đ. Cộng Hòa, Phường 12, Tân Bình, Thành phố Hồ Chí Minh 72111",Tân Bình
+54,Côn Đảo Quán.,3.6,22,"245 Hoàng Văn Thụ, Phường 1, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+55,Nhà Hàng Hải Sản Ba Ba Vang,3.5,15,"1 Đ. Phổ Quang, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+57,Tổ chức Tiệc và Sự Kiện | tiecBuffet.com,4.0,5,"66 Bàu Cát 1, Phường 8, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+58,Quán Dê TB,4.0,1,"102 Đ. Phổ Quang, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+59,Hong Kong Steam - Truong Son,3.6,19,"46 Trường Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 70000",Tân Bình
+60,Chillthai - thaifood,3.9,47,"41 Hồng Hà, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+61,Blanc. Restaurant Saigon,4.8,328,"180D Hai Bà Trưng, Street, Quận 1, Thành phố Hồ Chí Minh 700000",Quận 1
+63,"BIG PIG | Bar - BBQ - Beer (46 Truong Son, Tan Binh District)",4.2,455,"46 Trường Sơn, P.2, Tân Bình, Thành phố Hồ Chí Minh 70000",Tân Bình
+65,Nhà Hàng Tri kỷ 2,4.3,4,"742/8 Nguyễn Kiệm, Phường 4, Phú Nhuận, Thành phố Hồ Chí Minh",Phú Nhuận
+66,Nhà hàng THOÁNG VIỆT 2,4.0,341,"số 1 Quang Trung, Phường 3, Gò Vấp, Thành phố Hồ Chí Minh",Gò Vấp
+67,2 Fong Restaurant,3.3,3,"0, Bach Dang Street, Tan Binh District, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+68,Blue Coffee & Restaurant,4.2,735,"202 Hoàng Văn Thụ, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh",Phú Nhuận
+70,Làng Thịt 고기마을,4.3,81,"102 Thăng Long, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+72,Quán lẩu dê Lam Sơn,3.8,705,"31a Hồng Hà, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+73,Din Ky Restaurant,4.1,161,"18 Đ. Cộng Hòa, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+74,Nhà Hàng Thiên Hương Sushi,4.3,108,"27 Hậu Giang, P.4, Tân Bình, Thành phố Hồ Chí Minh 700000",Tân Bình
+75,NHÀ HÀNG CHAY TÂM | NHÀ HÀNG CHAY PHẠM VĂN HAI | NHÀ HÀNG CHAY TÂN BÌNH,4.1,34,"63 Phạm Văn Hai, Phường 3, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+78,Nhà Hàng Dìn Ký Hồng Hà,3.7,1,"127 Đ. Hồng Hà, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh 70000",Phú Nhuận
+79,Xiên Khè Felix,4.6,194,"1a Đ. Phổ Quang, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+80,Công Ty Tnhh Đầu Tư Nhà Hàng Khách Sạn Minh Long,4.5,2,"19 Hoàng Việt, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+82,T-Sum Restaurant,3.0,1,"15 Nguyễn Thái Bình, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+83,Next Noodles,2.6,18,"Level 3, Tan Son Nhat Airport 70000, Thành phố Hồ Chí Minh",Tân Bình
+84,NHÀ HÀNG CHAY & TRÀ MUNI,4.5,72,"15B Sông Đà, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 70000",Tân Bình
+86,Quán KIM,4.0,1,"11 Đặng Văn Sâm, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+87,Nonee - Buffet nướng & lẩu,4.4,44,"185 Trần Huy Liệu, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh 726500",Phú Nhuận
+88,ẩm thực 239,3.9,16,"239 Nguyễn Trọng Tuyển, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh 70000",Phú Nhuận
+89,Nhà Hàng Hàn Quốc Hodori,4.2,79,"27A Hậu Giang, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+90,Nhà Hàng CHAY XANH 2 - Vegetarian Restaurant,4.6,118,"343/8 Nguyễn Trọng Tuyển, Phường 1, Tân Bình, Thành phố Hồ Chí Minh 72200",Tân Bình
+91,Nhà Hàng,5.0,1,"91 Bành Văn Trân, Phường 7, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+92,Grand Palace Wedding And Convention,4.2,4,"18 Đ. Cộng Hòa, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+93,Nhậu Ngon Mồi Xịn,4.0,1,"1 Đ. Phổ Quang, P. 2 Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+94,The Noodle House,5.0,3,"76 Đ. Bạch Đằng, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+96,INDIA SPECIAL RESTAURANT,4.2,354,"5A Sông Đáy, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 70000",Tân Bình
+97,Dim Tu Tac,4.3,786,"202A Hoàng Văn Thụ, Phường 9, Phú Nhuận, Thành phố Hồ Chí Minh",Phú Nhuận
+98,Cơm Tấm Cali - Nguyễn Văn Trỗi,3.6,433,"82 Đ. Nguyễn Văn Trỗi, Phường 8, Phú Nhuận, Thành phố Hồ Chí Minh 70000",Phú Nhuận
+100,Nari Hotpot & Rice (cơm văn phòng),1.0,1,"16 Hoàng Việt, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+101,An La Nho Restaurant,5.0,2,"99, Cuu Long Street, Ward 15, District 10, Phường 15, Quận 10, Thành phố Hồ Chí Minh",Quận 10
+102,Popeyes sân bay,2.4,13,"Tan Son Nhat Air Cargo Terminal, Nguyễn Văn Vĩnh, Phường 4, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+103,McDonald's Tân Sơn Nhất,3.9,908,"Phòng A1, Tầng trệt, Khu vực thương mại Nhà giữ xe Ga Quốc Nội, Tân Bình, 700000",Tân Bình
+104,Quán ăn Quê Ta,1.0,1,"63 Hoa Hồng, phường 2, Phú Nhuận, Thành phố Hồ Chí Minh",Phú Nhuận
+106,Isushi Trường Sơn Tân Bình,4.3,233,"18 Trường Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh",Tân Bình
+107,Nhà hàng Buffet chay D'Gemma,5.0,3,"5B Đ. Phổ Quang, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 70000",Tân Bình
+140,Nhà hàng Khoái,4.2,829,"16 Lê Quý Đôn, Phường 6, Quận 3, Thành phố Hồ Chí Minh",Quận 3
+141,241 Restaurant,3.9,1,"45 Đ. Phạm Viết Chánh, Phường Nguyễn Cư Trinh, Quận 1, Thành phố Hồ Chí Minh",Quận 1
+142,Nhà Hàng 939 Hòn Chồng,3.9,1,"927 Đ. Hoàng Sa, Phường 11, Quận 3, Thành phố Hồ Chí Minh",Quận 3
+143,Nhà hàng Chay Bếp xanh An Duyên,4.5,787,"10 Đ. Nguyễn Tri Phương, Phường 6, Quận 5, Thành phố Hồ Chí Minh 700000",Quận 5
+144,HOME Saigon - HOME Vietnamese Restaurant,4.5,657,"216/4 Điện Biên Phủ, Phường 4, Quận 3, Thành phố Hồ Chí Minh 700000",Quận 3
+145,Nhà Hàng Hương Huyền Xả Gió,4.2,330,"8H Đ. Bùi Minh Trực, Phường 5, Quận 8, Thành phố Hồ Chí Minh",Quận 8
+146,Nhà hàng All-in,4.6,118,"Hẻm 91 Hoà Hưng, Phường 12, Quận 10, Thành phố Hồ Chí Minh",Quận 10
+147,Nhà hàng Đất Sét,4.0,970,"16 Đ. Lê Hồng Phong, Phường 12, Quận 10, Thành phố Hồ Chí Minh",Quận 10
+148,Nhà Hàng Bê Vàng - Hải Sản Tươi Sống,4.3,973,"263 Đ. An D. Vương, Phường 3, Quận 5, Thành phố Hồ Chí Minh",Quận 5
+149,Nhà Hàng Bê Vàng,3.9,798,"110 Đ. Vành Đai Trong, An Lạc A, Bình Tân, Thành phố Hồ Chí Minh",Bình Tân
+150,Nhà Hàng Hải Sản Rạn Biển 9,4.1,684,"42 Trần Đình Xu, Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh 700000",Quận 1
+151,Hoang Tam,4.4,1,"TK, 22/1 Đ. Nguyễn Cảnh Chân, Cầu Kho, Quận 1, Thành phố Hồ Chí Minh 70000",Quận 1
+152,Nhà hàng Chim Rừng,4.1,308,"PJX7+8W9, Bình Trị Đông B, Bình Tân, Thành phố Hồ Chí Minh",Bình Tân
+153,Nhà Hàng Vườn Ngọc Lan,4.2,216,"189/1 Đ. Cống Quỳnh, Phường Nguyễn Cư Trinh, Quận 1, Thành phố Hồ Chí Minh 700000",Quận 1
+154,Nhà Hàng Chay (Vegetarian Restaurant) Hoa Khai,4.3,703,"khuôn viên Nam Thành Thánh Thất, 124 Đ. Nguyễn Cư Trinh, Phường Nguyễn Cư Trinh, Quận 1, Thành phố Hồ Chí Minh 733500",Quận 1
+155,Nhà Hàng Tân Nhã,4.8,399,"100 Trần Tuấn Khải, Phường 5, Quận 5, Thành phố Hồ Chí Minh",Quận 5
+156,Nhà hàng Hoa Hồng,4.1,141,"181 Đ. 3 Tháng 2, Phường 12, Quận 10, Thành phố Hồ Chí Minh",Quận 10
+157,Hoa Vien Nam Bo Wedding Restaurant,4.0,1,"65 Hòa Bình, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh",Tân Phú
+158,Nhà hàng Hải Đăng 1,3.9,244,"31A Đ. Nguyễn Thông, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh 70000",Quận 3
+159,Nàng Gánh restaurant,4.2,414,"115/2 Trần Quốc Thảo, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh",Quận 3
+160,Nhà Hàng Sân Vườn 360,4.0,184,"336/27 Nguyễn Văn Luông, Phường 12, Quận 6, Thành phố Hồ Chí Minh",Quận 6
+161,Thuy ta Dam Sen Restaurant,4.1,503,"3 Hòa Bình, Phường 3, Quận 11, Thành phố Hồ Chí Minh 700000",Quận 11
+162,Den Long - Home Cooked Vietnamese Restaurant,4.5,2,"1st Floor, 130 Đ. Nguyễn Trãi, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh 700000",Quận 1
+163,Nhà hàng Việt Phố,4.1,3,"45-47-49, Lê Quý Đôn, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh 700000",Quận 3
+164,Nhà hàng chay - thực dưỡng Quỳnh House,4.9,171,"449/23 Đ. Sư Vạn Hạnh, Phường 12, Quận 10, Thành phố Hồ Chí Minh",Quận 10
+165,Nhà hàng Tân Hải Vân,4.0,1,"164 Đ. Nguyễn Trãi, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 700000",Quận 1
+166,Nhon Hoa 1 Restaurant,4.0,422,"1097 Phạm Thế Hiển, Phường 5, Quận 8, Thành phố Hồ Chí Minh",Quận 8
+167,Lobster Bay - Kỳ Đồng,4.4,364,"10B Đ. Kỳ Đồng, Phường 9, Quận 3, Thành phố Hồ Chí Minh",Quận 3
+168,Ngoc Suong 3 Restaurant,4.4,659,"106 Đ. Sương Nguyệt Anh, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh",Quận 1
+169,Nhà Hàng Còng Gió - Ẩm thực miền biển,4.1,184,"Hẻm 796 Sư Vạn Hạnh, Phường 12, Quận 10, Thành phố Hồ Chí Minh 72510",Quận 10
