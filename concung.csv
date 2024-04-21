@@ -1,0 +1,686 @@
+province,district,ward,LONGITUDE,LATITUDE,ADDRESS,STORE_CODE
+Đồng Tháp,Thành Phố Sa Đéc,Phường 2,105.75927,10.29036,"281-283 Nguyễn Sinh Sắc, P.2, Thành phố Sa Đéc, Đồng Tháp",CCG_0
+Đồng Tháp,Thành Phố Sa Đéc,Phường An Hòa,105.745816,10.312308,"số K28 đường TL848, khóm Tân Hoà, phường An Hoà, Thành phố Sa Đéc, Đồng Tháp",CCG_1
+Đồng Tháp,Thành Phố Cao Lãnh,Phường 1,105.6356667,10.4562028,"81 Nguyễn Huệ, Khóm 1, Phường 1, Thành phố Cao Lãnh, Tỉnh Đồng Tháp. (closed)",CCG_2
+Đồng Tháp,Thành Phố Cao Lãnh,Phường 11,105.581783,10.485508,"1438 Quốc lộ 30, Khóm 3, Phường 11, Thành phố Cao Lãnh, Đồng Tháp",CCG_3
+Đồng Tháp,Thành Phố Cao Lãnh,Phường 2,105.63745524043,10.456945221881,"Số 158 - 160 đường Nguyễn Huệ, Khóm 2, Phường 2, Thành Phố Cao Lãnh, Đồng Tháp",CCG_4
+Đồng Tháp,Thành Phố Cao Lãnh,Phường 4,105.63065,10.4523,"76 Phạm Hữu Lầu, Phường 4, TP. Cao Lãnh, Đồng Tháp",CCG_5
+Đồng Tháp,Huyện Lai Vung,Thị Trấn Lai Vung,105.659926,10.288449,"Quốc lộ 80, Khóm 1, Thị trấn Lai Vung, huyện Lai Vung, Đồng Tháp",CCG_6
+Đồng Tháp,Huyện Lai Vung,Xã Tân Thành,105.593306,10.256959,"6A/TK Quốc Lộ 54, ấp Tân Khánh, xã Tân Thành, huyện Lai Vung, Đồng Tháp",CCG_7
+Đồng Tháp,Huyện Lấp Vò,Thị Trấn Lấp Vò,105.52255,10.36254,"308 đường 3/2 khóm Bình Thạnh 1, Thị Trấn Lấp Vò, Huyện Lấp Vò, Tỉnh Đồng Tháp",CCG_8
+Đồng Tháp,Huyện Tam Nông,Thị Trấn Tràm Chim,105.558331,10.671232,"đường Trần Hưng Đạo, Khóm 2, Thị trấn Tràm Chim, huyện Tam Nông, Đồng Tháp",CCG_9
+Đồng Tháp,Huyện Tân Hồng,Thị Trấn Sa Rài,105.45094,10.88043,"51 đường Nguyễn Huệ, thị trấn Sa Rài, huyện Tân Hồng, Tỉnh Đồng Tháp",CCG_10
+Đồng Tháp,Huyện Thanh Bình,Xã Bình Thành,105.541529,10.535244,"Quốc Lộ 30, Ấp Bình Chánh, xã Bình Thành, huyện Thanh Bình, Đồng Tháp",CCG_11
+Đồng Tháp,Huyện Châu Thành,Thị Trấn Cái Tàu Hạ,105.873838,10.260352,"96-98 Quốc lộ 80, Khóm Phú Mỹ, Thị trấn Cái Tàu Hạ, huyện Châu Thành, Đồng Tháp.",CCG_12
+Đồng Tháp,Huyện Tháp Mười,Thị Trấn Mỹ An,105.84366,10.5186," 201 - 203 Hùng Vương, khóm 4, thị trấn Mỹ An, huyện Tháp Mười, tỉnh Đồng Tháp",CCG_13
+Đồng Tháp,Huyện Tháp Mười,Thị Trấn Mỹ An,105.847097,10.52558,"Đường Gò Tháp, Khóm 3, Thị trấn Mỹ An, huyện Tháp Mười, Đồng Tháp",CCG_14
+Đắk Nông,Thị Xã Gia Nghĩa,Phường Nghĩa Thành,107.68459,12.00413,"17, 19, 21 Huỳnh Thúc Kháng, Phường Nghĩa Thành, Thị Xã Gia Nghĩa, tỉnh Đắk Nông",CCG_15
+Đắk Nông,Huyện Krông Nô,Thị Trấn Đắk Mâm,107.86217474837,12.466629526718,"57 Nguyễn Tất Thành, Thị trấn Đắk Mâm, huyện Krông Nô, Đắk Nông",CCG_16
+Đắk Lắk,Thị Xã Buôn Hồ,Phường An Lạc,108.2675922,12.9178608,"68 Trần Hưng Đạo, phường An Lạc, Thị xã Buôn Hồ, Đắk Lắk.",CCG_17
+Đắk Lắk,Thành phố Buôn Ma Thuột,Xã Cư Êbur,108.028857,12.695162,"Số 2 Tỉnh lộ 5, xã Cư Ê Bur, Thành phố Buôn Ma Thuột, Đắk Lắk",CCG_18
+Đắk Lắk,Thành phố Buôn Ma Thuột,Phường Ea Tam,108.0276993,12.6573625,"384 Lê Duẩn, P. Ea Tam, TP. Buôn Ma Thuột, Đắk Lắk",CCG_19
+Đắk Lắk,Thành phố Buôn Ma Thuột,Phường Tân Lập,108.061454,12.6908818,"214 Nguyễn Tất Thành, P. Tân Lập, TP. Buôn Ma Thuột, Đắk Lắk",CCG_20
+Đắk Lắk,Thành phố Buôn Ma Thuột,Phường Tân Lợi,108.0491914,12.6907037,"245 Phan Chu Trinh, Phường Tân Lợi, Thành Phố Buôn Ma Thuột, Tỉnh Đắk Lắk",CCG_21
+Đắk Lắk,Thành phố Buôn Ma Thuột,Phường Tân Thành,108.0257657,12.6685172,"211 Mai Hắc Đế, phường Tân Thành, Thành phố Buôn Ma Thuột, Đắk Lắk",CCG_22
+Đắk Lắk,Thành phố Buôn Ma Thuột,Phường Thắng Lợi,108.047971,12.684384,"16 Lê Thánh Tông, Thắng Lợi, Buôn Ma Thuột, Đắk Lắk",CCG_23
+Đắk Lắk,Thành phố Buôn Ma Thuột,Phường Thành Công,108.0415,12.68381,"130 Đường Hoàng Diệu, Phường Thành Công, Thành phố Buôn Ma Thuộc, Tỉnh Đắk Lắk (closed)",CCG_24
+Đắk Lắk,Thành phố Buôn Ma Thuột,Phường Thống Nhất,108.03301111579,12.682870504017,"350 Phan Bội Châu, phường Thống Nhất, Thành phố Buôn Ma Thuột, Đắk Lắk",CCG_25
+Đắk Lắk,Huyện Ea Súp,Thị Trấn Ea Súp,107.883765,13.070579,"48 Hùng Vương, Tổ dân phố Hòa Bình, Thị trấn Ea Súp, huyện Ea Súp, Đắk Lắk",CCG_26
+Đắk Lắk,Huyện Buôn Đôn,Xã Ea Bar,107.990218,12.769398,"36 Tỉnh lộ 685, thôn 18B, xã Ea Bar, huyện Buôn Đôn, Đắk Lắk",CCG_27
+Đắk Lắk,Huyện Krông Bông,Thị Trấn Krông Kmar,108.338243,12.508384,"180 Nguyễn Tất Thành, Thị trấn Krông Kmar, huyện Krông Bông, Đắk Lắk",CCG_28
+Đắk Lắk,Huyện Krông Pắc,Thị Trấn Phước An,108.30251,12.71058,"294-296 đường Giải Phóng, thị trấn Phước An, Huyện Krông Pắc, tỉnh Đắk Lắk",CCG_29
+Yên Bái,Thành Phố Yên Bái,Phường Nguyễn Thái Học,104.8868662,21.711274," 6 Nguyễn Thái Học, phường Nguyễn Thái Học, Thành phố Yên Bái, Yên Bái",CCG_30
+Vĩnh Phúc,Thành Phố Phúc Yên,Phường Hùng Vương,105.70732,21.23118,"147 Hai Bà Trưng, P. Hùng Vương, TX.Phúc Yên, Vĩnh Phúc",CCG_31
+Vĩnh Long,Thành Phố Vĩnh Long,Phường 1,105.97249,10.252161,"47 Trưng Nữ Vương, Phường 1,Thành phố Vĩnh Long, Vinh Long",CCG_32
+Vĩnh Long,Thành Phố Vĩnh Long,Phường 4,105.986996,10.231317," Số 64/6D Trần Phú, Phường 4, Thành phố Vĩnh Long, Tỉnh Vĩnh Long",CCG_33
+Vĩnh Long,Huyện Trà Ôn,Thị Trấn Trà Ôn,105.924213,9.963657,"60/45D Thống Chế Điều Bát, Khu 3, Thị trấn Trà Ôn, huyện Trà Ôn, Vĩnh Long",CCG_34
+Vĩnh Long,Huyện Tam Bình,Xã Song Phú,105.901556,10.117699,"Đường Số 7, Khu Đô Thị Mới Song Phú, ấp Phú Ninh, xã Song Phú, huyện Tam Bình, Vĩnh Long",CCG_35
+Vĩnh Long,Huyện Tam Bình,Thị Trấn Tam Bình,105.996686,10.044145,"12 Phan Văn Đáng, Khóm 1, Thị trấn Tam Bình, huyện Tam Bình, Vĩnh Long",CCG_36
+Vĩnh Long,Huyện Bình Minh,Phường Đông Thuận,105.835274,10.046248," 478 - 480 Lưu Nhơn Sâm, khóm Đông Thuận, phường Đông Thuận, Thị xã Bình Minh, Vĩnh Long",CCG_37
+Vĩnh Long,Huyện Bình Minh,Phường Thành Phước,105.82161,10.0707,"Nguyễn Văn Thảnh , khóm 5, phường Thành Phước, Thị Xã Bình Minh, Tỉnh Vĩnh Long",CCG_38
+Vĩnh Long,Huyện Vũng Liêm,Thị Trấn Vũng Liêm,106.18542,10.095684,"311-312 tờ bản đồ số 9, Nam Kỳ Khởi Nghĩa, khóm 2, Thị trấn Vũng Liêm, huyện Vũng Liêm, tỉnh Vĩnh Long",CCG_39
+Trà Vinh,Thành Phố Trà Vinh,Phường 2,106.34121,9.93338,"62 Đường Điện Biên Phủ, khóm 3, Phường 2, thành phố Trà Vinh, tỉnh Trà Vinh",CCG_40
+Trà Vinh,Thành Phố Trà Vinh,Phường 6,106.341381,9.923177,"12 Điện Biên Phủ, phường 6, thành phố Trà Vinh, tỉnh Trà Vinh",CCG_41
+Trà Vinh,Huyện Cầu Kè,Thị Trấn Cầu Kè,106.055359,9.869831,"172 - 174 Đường 30/4, Khóm 4, Thị trấn Cầu Kè, huyện Cầu Kè, Trà Vinh",CCG_42
+Tiền Giang,Thị Xã Cai Lậy,Phường 1,106.119616,10.411048,"2 đường 30/4, Khu Phố 1, Phường 1, Thị Xã Cai Lậy, Tiền Giang",CCG_43
+Tiền Giang,Thị Xã Gò Công,Phường 2,106.67577,10.35929,"364-365 đường Nguyễn Huệ, Khu phố 3, Phường 2, Thị xã Gò Công, Tỉnh Tiền Giang",CCG_44
+Tiền Giang,Thành Phố Mỹ Tho,Phường 2,106.37227,10.35501,"124 Đinh Bộ Lĩnh, Phường 2, Tp.Mỹ Tho, Tiền Giang",CCG_45
+Tiền Giang,Thành Phố Mỹ Tho,Phường 5,106.3580203,10.364559,"42 Ấp Bắc, Phường 5, Tp. Mỹ Tho, Tiền Giang",CCG_46
+Tiền Giang,Thành Phố Mỹ Tho,Phường 6,106.34207,10.35058,"57/8 Lê Thị Hồng Gấm, phường 6, thành phố Mỹ Tho, tỉnh Tiền Giang",CCG_47
+Tiền Giang,Thành Phố Mỹ Tho,Phường 7,106.36476,10.36495,"68 Hùng Vương, Phường 7, Thành phố Mỹ Tho, Tiền Giang",CCG_48
+Tiền Giang,Huyện Cái Bè,Thị Trấn Cái Bè,106.033537,10.338904,"210 Đường tỉnh lộ 875, Tổ 18, Khu 3, Thị trấn Cái Bè, Huyện Cái Bè, Tỉnh Tiền Giang.",CCG_49
+Tiền Giang,Huyện Chợ Gạo,Xã Long Bình Điền,106.45034,10.35384,"Thửa đất số 98 & 99, ấp Long Thạnh, xã Long Bình Điền, Huyện Chợ Gạo, Tỉnh Tiền Giang",CCG_50
+Tiền Giang,Huyện Châu Thành,Thị Trấn Tân Hiệp,106.34308,10.44992,"2/4 Quốc Lộ 1A, Ấp Rẫy, Thị Trấn Tân Hiệp, Huyện Chậu Thành, Tỉnh Tiền Giang",CCG_51
+Tiền Giang,Huyện Châu Thành,Xã Tân Hương,106.369081,10.485234,"169/1 Quốc Lộ 1A, ấp Tân Hoà, xã Tân Hương, huyện Châu Thành, Tiền Giang",CCG_52
+Tiền Giang,Huyện Châu Thành,Xã Tân Lý Tây,106.3474004,10.4577009,"458/2 Quốc Lộ 1A, Ấp Tân Phong, Xã Tân Lý Tây, Huyện Châu Thành, Tỉnh Tiền Giang",CCG_53
+Tiền Giang,Huyện Gò Công Tây,Thị Trấn Vĩnh Bình,106.5788282,10.3571939," 39B Quốc Lộ 50, Khu phố 5, Thị trấn Vĩnh Bình, Huyện Gò Công Tây, Tỉnh Tiền Giang",CCG_54
+Thừa Thiên Huế,Thị Xã Hương Thủy,Phường Phú Bài,107.6776277,16.4086686,"1136 - 1138 Nguyễn Tất Thành, phường Phú Bài, Thị xã Hương Thuỷ, Thừa Thiên Huế",CCG_55
+Thừa Thiên Huế,Thành Phố Huế,Phường Phú Hội,107.59881,16.46842,"1 Bà Triệu, Phú Hội, Tp. Huế, Thừa Thiên Huế",CCG_56
+Thừa Thiên Huế,Thành Phố Huế,Phường Phú Nhuận,107.59398,16.4635874,"35 Hà Nội, phường Phú Nhuận, Thành phố Huế, Thừa Thiên Huế",CCG_57
+Thừa Thiên Huế,Thành Phố Huế,Phường Phước Vĩnh,107.592099,16.455967," 1 Trần Phú, phường Phước Vĩnh, Thành phố Huế, Thừa Thiên Huế",CCG_58
+Thừa Thiên Huế,Thành Phố Huế,Phường Thuận Hòa,107.569554,16.469819,"39A Thạch Hãn, phường Thuận Hòa, Thành phố Huế, Thừa Thiên Huế",CCG_59
+Thừa Thiên Huế,Thành Phố Huế,Phường Thuận Thành,107.581457,16.47582,"111 Mai Thúc Loan, phường Thuận Thành, Thành phố Huế, Thừa Thiên Huế",CCG_60
+Thanh Hóa,Thành Phố Sầm Sơn,Phường Trung Sơn,105.89267246425,19.735951192067,"phường Trường Sơn, Thành phố Sầm Sơn, Thanh Hóa",CCG_61
+Thanh Hóa,Thành Phố Thanh Hóa,Phường Ba Đình,105.7760737,19.803803,"300 - 302 Trần Phú, phường Ba Đình, Thành phố Thanh Hoá, Thanh Hoá",CCG_62
+Thái Nguyên,Thành Phố Phổ Yên,Phường Ba Hàng,105.87038,21.41837,"662-664 Phạm Văn Đồng, Ba Hàng, Thị Xã Phổ Yên, Thái Nguyên",CCG_63
+Thái Nguyên,Thành Phố Thái Nguyên,Phường Tân Lập,105.8351723,21.5714409,"GO! Thái Nguyên, Khu dân cư đường Việt Bắc, phường Tân Lập, thành phố Thái Nguyên, Thái Nguyên",CCG_64
+Thái Bình,Thành Phố Thái Bình,Phường Phú Khánh,106.3216529,20.4395404,"Go! Thái Bình, đường Trần Thái Tông, phường Phú Khánh, Thành phố Thái Bình, Thái Bình",CCG_65
+Tây Ninh,Thị Xã Hòa Thành,Xã Hiệp Tân,106.127146,11.285721,"15-17 Phạm Hùng, Khu phố 2, Thị trấn Hòa Thành, Tây Ninh",CCG_66
+Tây Ninh,Thị Xã Hòa Thành,Xã Hiệp Tân,106.114562,11.294155," 363 Châu Văn Liêm, Ấp Hiệp Long, Xã Hiệp Tân, Thị xã Hoà Thành, tỉnh Tây Ninh.",CCG_67
+Tây Ninh,Thị Xã Hòa Thành,Xã Long Thành Trung,106.130091,11.276944,"138 Tôn Đức Thắng, phường Long Thành Trung, Thị xã Hoà Thành, Tây Ninh",CCG_68
+Tây Ninh,Thị Xã Trảng Bàng,Xã An Hòa,106.35487,11.03275,"Số 180 Quốc Lộ 22, Khu phố Lộc Du, Thị trấn Trảng Bàng, Trảng Bàng, Tây Ninh",CCG_69
+Tây Ninh,Thị Xã Trảng Bàng,Xã An Tịnh,106.381987,11.026434,"Quốc Lộ 22, Tổ 6, Khu phố An Bình, phường An Tịnh, Thị xã Trảng Bàng, Tây Ninh",CCG_70
+Tây Ninh,Thành Phố Tây Ninh,Phường 1,106.105016,11.329576,"483 Ba Mươi Tháng 4, Khu phố 1, Phường 1, Thành phố Tây Ninh, Tây Ninh",CCG_71
+Tây Ninh,Thành Phố Tây Ninh,Phường 2,106.0909045,11.3162306,"232 Cách Mạng Tháng Tám, Khu phố 1, Phường 2, thành phố Tây Ninh, Tây Ninh",CCG_72
+Tây Ninh,Thành Phố Tây Ninh,Phường 2,106.0885342,11.3093059,"134 Trưng Nữ Vương, Khu phố 1, Phường 2, Thành phố Tây Ninh, Tây Ninh",CCG_73
+Tây Ninh,Thành Phố Tây Ninh,Phường 3,106.1080594,11.3083288,"518 Cách Mạng Tháng Tám, Phường 3, Thành phố Tây Ninh, Tây Ninh",CCG_74
+Tây Ninh,Thành Phố Tây Ninh,Phường 3,106.10179,11.31106,"374  Cách Mạng Tháng 8, Phường 3, thành phố Tây Ninh, Tỉnh Tây Ninh (closed)",CCG_75
+Tây Ninh,Thành Phố Tây Ninh,Phường 3,106.0986,11.317276,"404 Đường 30/4, Khu phố 1, Phường 3, Thành phố Tây Ninh, Tỉnh Tây Ninh",CCG_76
+Tây Ninh,Thành Phố Tây Ninh,Phường 3,106.101696,11.300615,"154-156 đường 30 Tháng 4, Khu phố 4, Phường 3, Thành phố Tây Ninh, Tây Ninh",CCG_77
+Tây Ninh,Thành Phố Tây Ninh,Phường 4,106.129,11.30514,"1186 Cách Mạng Tháng Tám, Khu phố 2, Phường 4, Thành phố Tây Ninh, Tỉnh Tây Ninh.",CCG_78
+Tây Ninh,Thành Phố Tây Ninh,Phường Ninh Sơn,106.115401,11.337765,"438D- 440 Bời Lời, Khu phố Ninh Trung, phường Ninh Sơn, Thành phố Tây Ninh, Tây Ninh",CCG_79
+Tây Ninh,Thành Phố Tây Ninh,Phường Ninh Thạnh,106.13255850971,11.307930612277,"713 Điện Biên Phủ, khu phố Ninh Phước, phường Ninh Thạnh, Thành phố Tây Ninh, Tây Ninh",CCG_80
+Tây Ninh,Huyện Gò Dầu,Thị Trấn Gò Dầu,106.2654412,11.084042,"410 Quốc lộ 22B, Khu phố Nội ô A, Thị trấn Gò Dầu, Gò Dầu, Tây Ninh",CCG_81
+Tây Ninh,Huyện Gò Dầu,Xã Phước Đông,106.32415,11.12122,"308 Tỉnh Lộ 782, xã Phước Đông, huyện Gò Dầu, Tây Ninh",CCG_82
+Tây Ninh,Huyện Gò Dầu,Xã Phước Đông,106.3122,11.139578,"Số 15 đường ĐT782, ấp Phước Đức B, xã Phước Đông, huyện Gò Dầu, Tây Ninh",CCG_83
+Tây Ninh,Huyện Tân Biên,Thị Trấn Tân Biên,106.0052079,11.5430187,"02- 04 Nguyễn Chí Thanh, Thị trấn Tân Biên, huyện Tân Biên, Tây Ninh",CCG_84
+Tây Ninh,Huyện Tân Biên,Thị Trấn Tân Biên,105.98622120917,11.610620049363,"Đường 22B, ấp Tân Hòa, xã Tân Lập, Thị trấn Tân Biên, huyện Tân Biên, Tây Ninh",CCG_85
+Tây Ninh,Huyện Tân Châu,Thị Trấn Tân Châu,106.161809,11.553314,"129 Tôn Đức Thắng, Khu Phố 1, Thị trấn Tân Châu, huyện Tân Châu, Tây Ninh",CCG_86
+Tây Ninh,Huyện Tân Châu,Xã Tân Hưng,106.17097473144,11.469437599182,"Tỉnh lộ 785, Tổ 14, ấp Tân Tây, xã Tân Hưng, huyện Tân Châu, Tây Ninh",CCG_87
+Tây Ninh,Huyện Châu Thành,Thị Trấn Châu Thành,106.0403884,11.3128299,"789 Hoàng Lê Kha, khu phố 4, thị trấn Châu Thành, huyện Châu Thành, tỉnh Tây Ninh (closed)",CCG_88
+Tây Ninh,Huyện Châu Thành,Thị Trấn Châu Thành,106.031162,11.312127,"đường Hoàng Lê Kha, tổ 11, Khu Phố 3, Thị trấn Châu Thành, huyện Châu Thành, Tây Ninh",CCG_89
+Tây Ninh,Huyện Dương Minh Châu,Thị Trấn Dương Minh Châu,106.22910160571,11.384082767943,"Số 298-300 Nguyễn Chí Thanh, Khu phố 2, Thị trấn Dương Minh Châu, huyện Dương Minh Châu, Tây Ninh",CCG_90
+Tây Ninh,Huyện Dương Minh Châu,Xã Phan,106.20387744159,11.35304021604,"Số 611, đường ĐT 781, tổ 7, ấp Phước Tân 3, xã Phan, huyện Dương Minh Châu, Tây Ninh",CCG_91
+Sóc Trăng,Thị Xã Ngã Năm,Phường 1,105.597842,9.564708,"1 Mai Thanh Thế, Khóm 1, Phường 1, Thị xã Ngã Năm, Sóc Trăng",CCG_92
+Sóc Trăng,Thị Xã Vĩnh Châu,Phường 1,105.9804,9.32369," 39-41 Nguyễn Huệ, khóm 1, Phường 1, Thị xã Vĩnh Châu, Sóc Trăng",CCG_93
+Sóc Trăng,Thành Phố Sóc Trăng,Phường 1,105.97418,9.60357,"31-33 Hai Bà Trưng, Phường 1, Tp. Sóc Trăng, Sóc Trăng",CCG_94
+Sóc Trăng,Thành Phố Sóc Trăng,Phường 2,105.96666,9.5896,"167 Đường Trần Hưng Đạo, Phường 2, thành phố Sóc Trăng, Tỉnh Sóc Trăng",CCG_95
+Sóc Trăng,Thành Phố Sóc Trăng,Phường 6,105.96919,9.61208,"79-81 Hùng Vương, Phường 6, Tp. Sóc Trăng, Sóc Trăng",CCG_96
+Sóc Trăng,Huyện Kế Sách,Thị Trấn Kế Sách,105.98344,9.770159," 01 Phan Văn Hùng, Thị trấn Kế Sách, huyện Kế Sách, Sóc Trăng",CCG_97
+Sóc Trăng,Huyện Trần Đề,Thị Trấn Trần Đề,106.192731,9.518811,"đường Nam Sông Hậu, Ấp Đầu Giồng, Thị trấn Trần Đề, huyện Trần Đề, Sóc Trăng",CCG_98
+Quảng Trị,Thị Xã Quảng Trị,Phường 2,107.1851372,16.7496784,"217 - 219 Trần Hưng Đạo, Phường 2, Thị xã Quảng Trị, Quảng Trị",CCG_99
+Quảng Trị,Thành Phố Đông Hà,Phường 1,107.10089,16.81381,"84 Quốc Lộ 9, phường 1, thành phố Đông Hà, Tỉnh Quảng Trị",CCG_100
+Quảng Trị,Huyện Vĩnh Linh,Thị Trấn Hồ Xá,107.002715,17.0691456,"36 Lê Duẫn, khóm Hữu Nghị, Thị trấn Hồ Xá, huyện Vĩnh Linh, Quảng Trị",CCG_101
+Quảng Ninh,Thành Phố Hạ Long,Phường Trần Hưng Đạo,107.0856767,20.9526264,"Số 18 Phố Giếng Đồn, Phường Trần Hưng Đạo, Thành phố Hạ Long, tỉnh Quảng Ninh",CCG_102
+Quảng Ninh,Thành Phố Uông Bí,Phường Thanh Sơn,106.765853,21.034069,"16 Trần Nhân Tông, Tổ 2, Khu 2, phường Thanh Sơn, Thành phố Uông Bí, Quảng Ninh (closed)",CCG_103
+Quảng Ninh,Thành Phố Móng Cái,Phường Trần Phú,107.9695384,21.5327629,"35 Triều Dương, phường Trần Phú, Thành phố Móng Cái, Quảng Ninh (closed)",CCG_104
+Quảng Ngãi,Thị Xã Đức Phổ,Thị Trấn Đức Phổ,108.9558041,14.8119148,"458-460 Nguyễn Nghiêm, phường Nguyễn Nghiêm, Thị xã Đức Phổ, Quảng Ngãi",CCG_105
+Quảng Ngãi,Thành Phố Quảng Ngãi,Phường Lê Hồng Phong,108.8012606,15.1328489,"2 Hai Bà Trưng, phường Lê Hồng Phong, Thành Phố Quảng Ngãi, tỉnh Quảng Ngãi",CCG_106
+Quảng Ngãi,Thành Phố Quảng Ngãi,Phường Nghĩa Lộ,108.7934,15.11246,"4 Nguyễn Trãi, phường Nghĩa Lộ, Thành phố Quảng Ngãi, Quảng Ngãi",CCG_107
+Quảng Ngãi,Thành Phố Quảng Ngãi,Phường Nguyễn Nghiêm,108.80217,15.12063,"386 Nguyễn Nghiêm, phường Nguyễn Nghiêm, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi.",CCG_108
+Quảng Ngãi,Thành Phố Quảng Ngãi,Phường Nguyễn Nghiêm,108.80567,15.11886,"558 Quang Trung, phường Nguyễn Nghiêm, thành phố Quảng Ngãi",CCG_109
+Quảng Ngãi,Thành Phố Quảng Ngãi,Xã Tịnh Khê,108.8889873,15.1822189,"Thửa đất 758, tờ bản đồ số 10, thôn Mỹ Lại, xã Tịnh Khê, Thành phố Quảng Ngãi, Quảng Ngãi",CCG_110
+Quảng Ngãi,Thành Phố Quảng Ngãi,Phường Trần Phú,108.79378,15.12188,"169 Hùng Vương, Phường Trần Phú, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",CCG_111
+Quảng Ngãi,Huyện Bình Sơn,Thị Trấn Châu Ổ,108.7581028,15.3005212,"282 Phạm Văn Đồng, thị trấn Châu Ổ, huyện Bình Sơn, tỉnh Quảng Ngãi",CCG_112
+Quảng Nam,Thị Xã Điện Bàn,Phường Vĩnh Điện,108.24547,15.89484,"Đường Trần Quý Cáp, Khu Phố Chợ Vĩnh Điện, phường Vĩnh Điện, Thị xã Điện Bàn, Quảng Nam",CCG_113
+Quảng Nam,Thành Phố Hội An,Phường Cẩm Phô,108.32544,15.88427,"550 Hai Bà Trưng, Phường Cẩm Phô, Thành phố Hội An, Tỉnh Quảng Nam",CCG_114
+Quảng Nam,Thành Phố Tam Kỳ,Phường Hòa Hương,108.5036495,15.5587765,"787 Phan Châu Trinh, phường Hòa Hương, Thành phố Tam Kì, Quảng Nam (closed)",CCG_115
+Quảng Nam,Thành Phố Tam Kỳ,Phường Phước Hòa,108.48379,15.57269,"63-65 Phan Chu Trinh, P.Phước Hoà , thành phố Tam Kỳ, tỉnh Quảng Nam",CCG_116
+Quảng Nam,Thành Phố Tam Kỳ,Phường Tân Thạnh,108.4684189511,15.583637506052,"số AI+AII, Nguyễn Văn Trỗi, phường Tân Thạnh, Thành phố Tam Kỳ, Quảng Nam",CCG_117
+Quảng Nam,Huyện Duy Xuyên,Xã Duy Trung,108.24917561614,15.82194952497,"693 - 695 Hùng Vương, xã Duy Trung, huyện Duy Xuyên, Quảng Nam  (closed)",CCG_118
+Quảng Nam,Huyện Duy Xuyên,Thị Trấn Nam Phước,108.28368,15.84095,"179-181 Điện Biên Phủ, Khối phố Long Xuyên 1, Thị Trấn Nam Phước, Huyện Duy Xuyên, Tỉnh Quảng Nam",CCG_119
+Quảng Nam,Huyện Quế Sơn,Xã Hương An,108.329142,15.781117,"Thửa đất số 32, Quốc lộ 1A, xã Hương An, huyện Quế Sơn, Quảng Nam",CCG_120
+Quảng Nam,Huyện Núi Thành,Thị Trấn Núi Thành,108.6441488,15.4356332,"236 Phạm Văn Đồng, Thị trấn Núi Thành, huyện Núi Thành, Quảng Nam",CCG_121
+Quảng Bình,Thị Xã Ba Đồn,Phường Ba Đồn,106.424212,17.752719,"1 Lý Thường Kiệt, Khu phố 1, phường Ba Đồn, Thị xã Ba Đồn, Quảng Bình",CCG_122
+Quảng Bình,Thành Phố Đồng Hới,Phường Hải Đình,106.62397,17.46386,"32 Quang Trung, Hải Đình, Tp. Đồng Hới, Quảng Bình",CCG_123
+Quảng Bình,Thành Phố Đồng Hới,Phường Nam Lý,106.60513,17.46698,"309 Trần Hưng Đạo, Nam Lý, Tp. Đồng Hới, Quảng Bình",CCG_124
+Quảng Bình,Huyện Lệ Thủy,Thị Trấn Kiến Giang,106.7931749,17.2217882,"01 Tây Hồ, Thị trấn Kiến Giang, huyện Lệ Thủy,  Quảng Bình",CCG_125
+Phú Yên,Thị Xã Sông Cầu,Phường Xuân Phú,109.219814,13.452969," 222  -224 Phạm Văn Đồng, khu phố Long Hải Nam, phường Xuân Phú, Thị xã Sông Cầu, Phú Yên",CCG_126
+Phú Yên,Thành Phố Tuy Hòa,Phường 4,109.30945,13.08708,"287B Trần Hưng Đạo, Phường 4, Tp.Tuy Hòa, Phú Yên",CCG_127
+Phú Yên,Thành Phố Tuy Hòa,Phường 5,109.30299,13.09019,"60 Nguyễn Thái Học, P.5, Thành Phố Tuy Hòa, tỉnh Phú Yên",CCG_128
+Ninh Thuận,Thành Phố Phan Rang-Tháp Chàm,Phường Bảo An,108.95356,11.59301,"602-604-606 21 Tháng 8, Bảo An, Tp. Phan Rang - Tháp Chàm, Ninh Thuận",CCG_129
+Ninh Thuận,Thành Phố Phan Rang-Tháp Chàm,Phường Đài Sơn,108.9943933,11.5783277,"9D Nguyễn Văn Cừ, phường Đài Sơn, Thành phố Phan Rang-Tháp Chàm, Ninh Thuận",CCG_130
+Ninh Thuận,Thành Phố Phan Rang-Tháp Chàm,Phường Đông Hải,109.024328,11.548884,"153 Hải Thượng Lãn Ông, phường Đông Hải, Thành phố Phan Rang - Tháp Chàm, Ninh Thuận",CCG_131
+Ninh Thuận,Thành Phố Phan Rang-Tháp Chàm,Phường Kinh Dinh,108.99057,11.56485,"450A Thống Nhất, phường Kinh Dinh, Thành phố Phan Rang - Tháp Chàm, Ninh Thuận",CCG_132
+Ninh Thuận,Thành Phố Phan Rang-Tháp Chàm,Phường Phước Mỹ,108.969652,11.5849391,"299-301 đường 21 tháng 8, phường Phước Mỹ, Thành phố Phan Rang- Tháp Chàm, Ninh Thuận",CCG_133
+Ninh Thuận,Thành Phố Phan Rang-Tháp Chàm,Phường Tấn Tài,108.99301,11.55818,"414-418 Ngô Gia Tự, Tấn Tài, Tp. Phan Rang - Tháp Chàm, Ninh Thuận",CCG_134
+Ninh Thuận,Huyện Ninh Phước,Thị Trấn Phước Dân,108.9282341,11.5245878,"119 Quốc lộ 1A, Thị trấn Phước Dân, huyện Ninh Phước, Ninh Thuận",CCG_135
+Ninh Bình,Thành Phố Ninh Bình,Xã Ninh Phúc,106.0048431,20.2417385,"Go! Ninh Bình, 10 Trần Nhân Tông, xã Ninh Phúc, Thành phố Ninh Bình",CCG_136
+Ninh Bình,Thành Phố Ninh Bình,Phường Tân Thành,105.96956,20.2616,"764 - 766 Trần Hưng Đạo, phố Trung Nhì, phường Tân Thành, Thành phố Ninh Bình, Ninh Bình",CCG_137
+Ninh Bình,Thành Phố Tam Điệp,Phường Bắc Sơn,105.92061,20.15693,"244 Quang Trung, P.Bắc Sơn,TP. Tam Điệp,Tỉnh Ninh Bình",CCG_138
+Nghệ An,Thành Phố Vinh,Phường Quang Trung,105.6754478,18.6659877," 2 Quang Trung, phường Quang Trung, Thành phố Vinh, Nghệ An",CCG_139
+Nghệ An,Thành Phố Vinh,Phường Trường Thi,105.6870716,18.6756892,"83 Nguyễn Văn Cừ, Khối 2, Phường Trường Thi, Thành phố Vinh, Tỉnh Nghệ An",CCG_140
+Lai Châu,Thành Phố Lai Châu,Phường Đoàn Kết,103.4579012543,22.399260944278,"49 Trần Hưng Đạo, phường Đoàn Kết, Thành phố Lai Châu, Lai Châu",CCG_141
+Kon Tum,Thành Phố Kon Tum,Phường Duy Tân,107.99987,14.36092," 691 Phan Đình Phùng, P. Duy Tân, Tp Kon Tum, Kon Tum",CCG_142
+Kon Tum,Thành Phố Kon Tum,Phường Quyết Thắng,108.0053,14.34976,"263 Trần Hưng Đạo, Phường Quyết Thắng, Thành phố KonTum, Tỉnh KonTum",CCG_143
+Kon Tum,Huyện Sa Thầy,Thị Trấn Sa Thầy,107.7978548,14.4073114,"318 Trần Hưng Đạo, Thị trấn Sa Thầy, huyện Sa Thầy, Kon Tum",CCG_144
+Kon Tum,Huyện Đắk Hà,Thị Trấn Đắk Hà,107.920002,14.5153465,"473 Hùng Vương, Tổ dân phố 4A, Thị trấn Đắk Hà, huyện Đắk Hà, Kon Tum",CCG_145
+Kiên Giang,Thành Phố Hà Tiên,Phường Pháo Đài,104.48376,10.37954,"178-180 Mạc Thiên Tích, Phường Pháo Đài, Thị xã Hà Tiên, Tỉnh Kiên Giang",CCG_146
+Kiên Giang,Thành Phố Phú Quốc,Thị Trấn An Thới,104.01652,10.01978,"127 Nguyễn Văn Cừ, Khu Phố 8, thị trấn An Thới, Phú Quốc, Kiên Giang",CCG_147
+Kiên Giang,Thành Phố Rạch Giá,Phường An Hòa,105.10202,9.98388,"Số 13-14, lô 04, đường Trần Quang Khải, Phường An Hòa, Thành Phố Rạch Giá, Tỉnh Kiên Giang",CCG_148
+Kiên Giang,Thành Phố Rạch Giá,Phường Vĩnh Bảo,105.085436,10.00634,"32 Nguyễn Trung Trực, Vĩnh Bảo, Rạch Giá, Kiên Giang",CCG_149
+Kiên Giang,Thành Phố Rạch Giá,Phường Vĩnh Lạc,105.09076,9.99915,"318-320 Nguyễn Trung Trực, Phường Vĩnh Lạc, thành phố Rạch Giá, tỉnh Kiên Giang",CCG_150
+Kiên Giang,Thành Phố Rạch Giá,Phường Vĩnh Lợi,105.12137,9.95433,"31 Mai Thị Hồng Hạnh, Khu phố 1, phường Vĩnh Lợi, Thành phố Rạch Giá, tỉnh Kiên Giang",CCG_151
+Kiên Giang,Thành Phố Rạch Giá,Phường Vĩnh Thanh,105.08047,10.01664,"2 Trần Phú, Phường Vĩnh Thanh, Tp. Rạch Giá, tỉnh Kiên Giang",CCG_152
+Kiên Giang,Huyện An Minh,Thị Trấn Thứ Mười Một,104.944536,9.618165,"Tổ 1, Khu Phố 3, Thị Trấn Thứ 11, huyện An Minh, Kiên Giang",CCG_153
+Kiên Giang,Huyện Gò Quao,Xã Định An,105.314777,9.772725,"Lô L10-12 Quốc Lộ 61, Chợ và Khu Dân Cư, xã Định An, huyện Gò Quao, Kiên Giang",CCG_154
+Kiên Giang,Huyện Hòn Đất,Thị Trấn Sóc Sơn,105.018249,10.120358,"Lô 1 Đường số 8, Khu phố Thị Tứ, Thị trấn Sóc Sơn, Huyện Hòn Đất, Tỉnh Kiên Giang",CCG_155
+Kiên Giang,Huyện Châu Thành,Thị Trấn Minh Lương,105.15899,9.90475,"709 Quốc lộ 61, khu phố Minh An, thị trấn Minh Lương, Huyện Châu Thành, tỉnh Kiên Giang",CCG_156
+Kiên Giang,Huyện Kiên Lương,Thị Trấn Kiên Lương,104.590025,10.248663,"265 Quốc Lộ 80, Tổ 10, Khu Phố Kiên Tân, Thị trấn Kiên Lương, huyện Kiên Lương, Kiên Giang",CCG_157
+Kiên Giang,Huyện Giồng Giềng,Thị Trấn Giồng Riềng,105.31633,9.9092,"DT 933, Khu phố 6, Thị Trấn Giồng Riềng, Huyện Giồng Riềng, Tỉnh Kiên Giang ",CCG_158
+Khánh Hòa,Thị Xã Ninh Hòa,Xã Ninh An,109.1262486,12.4910687,"5 Nguyễn Thị Ngọc Oanh, phường Ninh Hiệp, Thị xã Ninh Hòa, tỉnh Khánh Hòa",CCG_159
+Khánh Hòa,Thị Xã Ninh Hòa,Phường Ninh Hiệp,109.1305636,12.4950427,"182 Trần Quý Cáp, phường Ninh Hiệp, Thị xã Ninh Hòa, Khánh Hòa",CCG_160
+Khánh Hòa,Thành Phố Cam Ranh,Phường Ba Ngòi,109.13348,11.912929,"2436 Đại Lộ Hùng Vương, phường Ba Ngòi, Thành phố Cam Ranh, Khánh Hòa",CCG_161
+Khánh Hòa,Thành Phố Cam Ranh,Phường Cam Lợi,109.14485,11.91714,"2197 Đại lộ Hùng Vương, phường Cam Lợi, Thành phố Cam Ranh, Khánh Hoà",CCG_162
+Khánh Hòa,Thành Phố Cam Ranh,Phường Cam Nghĩa,109.19203,11.98746,"288 Đại Lộ Hùng Vương, Phường Cam Nghĩa, Thành Phố Cam Ranh, tỉnh Khánh Hoà",CCG_163
+Khánh Hòa,Thành Phố Nha Trang,Phường Lộc Thọ,109.2002597,12.2205259,"19 Hoàng Diệu, phường Vĩnh Nghiêm, Thành phố Nha Trang, Khánh Hòa",CCG_164
+Khánh Hòa,Thành Phố Nha Trang,Phường Phước Hải,109.1821,12.2439,"70 Lê Hồng Phong, phường Phước Hải, thành phố Nha Trang, tỉnh Khánh Hòa",CCG_165
+Khánh Hòa,Thành Phố Nha Trang,Phường Phước Long,109.1917705,12.214355,"1067 Lê Hồng Phong, phường Phước Long, thành phố Nha Trang, tỉnh Khánh Hòa",CCG_166
+Khánh Hòa,Thành Phố Nha Trang,Phường Phương Sơn,109.18256,12.24968,"310-312 Thống Nhất, Phường Phương Sơn, thành phố Nha Trang, Tỉnh Khánh Hoà",CCG_167
+Khánh Hòa,Thành Phố Nha Trang,Phường Tân Lập,109.1921698,12.2383207,"45A Nguyễn Thị Minh Khai, phường Tân Lập, Thành phố Nha Trang, Khánh Hòa",CCG_168
+Khánh Hòa,Thành Phố Nha Trang,Phường Vạn Thạnh,109.1902,12.25265,"2E-2F đường 2 tháng 4, phường Vạn Thạnh, Thành phố Nha Trang, Tỉnh Khánh Hòa",CCG_169
+Khánh Hòa,Thành Phố Nha Trang,Xã Vĩnh Hiệp,109.16775,12.25513,"06-07 đường 23/10, thôn Vĩnh Điềm Trung, xã Vĩnh Hiệp, thành phố Nha Trang, Tỉnh Khánh Hòa",CCG_170
+Khánh Hòa,Thành Phố Nha Trang,Phường Vĩnh Hòa,109.203296,12.2885656,"26 Điện Biên Phủ, phường Vĩnh Hòa, Thành phố Nha Trang, Khánh Hòa.",CCG_171
+Khánh Hòa,Thành Phố Nha Trang,Phường Vĩnh Phước,109.1979885,12.2740118,"Số B5-B6 Chung cư Vĩnh Phước, đường 2-4, phường Vĩnh Phước, thành phố Nha Trang, tỉnh Khánh Hòa",CCG_172
+Khánh Hòa,Thành Phố Nha Trang,Phường Vĩnh Trường,109.203039,12.206164,"135 Võ Thị Sáu, phường Vĩnh Trường, Thành phố Nha Trang, Khánh Hòa",CCG_173
+Khánh Hòa,Thành Phố Nha Trang,Phường Xương Huân,109.19414,12.24949,"4 Yersin, Phường Xương Huân, Thành Phố Nha Trang, Tỉnh Khánh Hòa (closed)",CCG_174
+Khánh Hòa,Thành Phố Nha Trang,Phường Xương Huân,109.192734,12.253698,"71A Phan Bội Châu, phường Xương Huân, Thành phố Nha Trang, Khánh Hòa (closed)",CCG_175
+Khánh Hòa,Huyện Cam Lâm,Xã Suối Tân,109.0777281,12.1592079,"thôn Dầu Sơn, xã Suối Tân, huyện Cam Lâm, Khánh Hòa",CCG_176
+Khánh Hòa,Huyện Diên Khánh,Thị Trấn Diên Khánh,109.1009,12.25711,"8 Phan Bội Châu, tổ DP Phan Bội Châu 2, thị trấn Diên Khánh, huyện Diên Khánh, Khánh Hòa",CCG_177
+Khánh Hòa,Huyện Diên Khánh,Thị Trấn Diên Khánh,109.107193,12.25763,"237 Hùng Vương, Thị trấn Diên Khánh, huyện Diên Khánh, Tỉnh Khánh Hòa (closed)",CCG_178
+Hậu Giang,Thành Phố Vị Thanh,Xã Hỏa Lựu,105.46512,9.78193,"361 Trần Hưng Đạo, phường 1, thành phố Vị Thanh, Hậu Giang",CCG_179
+Hậu Giang,Huyện Châu Thành,Thị Trấn Ngã Sáu,105.8065139,9.9217715,"J52-J53 Khu TTTM, Thị trấn Ngã Sáu, huyện Châu Thành, Hậu Giang",CCG_180
+Hải Phòng,Quận Ngô Quyền,Phường Cầu Đất,106.6817282,20.8557075,"2 - 4 Cầu Đất, phường Cầu Đất, quận Ngô Quyền, Thành phố Hải Phòng",CCG_181
+Hải Phòng,Quận Ngô Quyền,Phường Đông Khê,106.7076293,20.8456409,"Go! Hải Phòng Ngã 5 Sân Bay, 20 Khu đô thị mới, phường Đông Khê, quận Ngô Quyền, Thành phố Hải Phòng",CCG_182
+Hải Phòng,Huyện An Dương,Thị Trấn An Dương,106.613956,20.863609,"Số 22, Tổ 4, Thị trấn An Dương, huyện An Dương, Thành phố Hải Phòng",CCG_183
+Hải Phòng,Huyện Thuỷ Nguyên,Thị Trấn Núi Đèo,106.680106,20.92105,"70 Trần Hưng Đạo, Thị trấn Núi Đèo, huyện Thuỷ Nguyên, Hải Phòng",CCG_184
+Hải Dương,Huyện Kinh Môn,Phường An Lưu,106.542283,20.999101,"413 Trần Hưng Đạo, Ngã 4 Phụ Sơn, phường An Lưu, Thị xã Kinh Môn, Hải Dương",CCG_185
+Hà Tĩnh,Thành Phố Hà Tĩnh,Phường Trần Phú,105.8932,18.34107,"53-55 Trần Phú , phường Trần Phú, thành phố Hà Tĩnh, tỉnh Hà Tĩnh",CCG_186
+Gia Lai,Thị Xã An Khê,Phường An Phú,108.66416,13.95476,"347 Quang Trung, Tổ dân phố 10, Phường An Phú, Thị xã An Khê, tỉnh Gia Lai",CCG_187
+Gia Lai,Thành Phố Pleiku,Phường Diên Hồng,107.992511,13.979182,"113A - 113B - 113C Hai Bà Trưng, phường Diên Hồng, Thành phố Pleiku, Gia Lai",CCG_188
+Gia Lai,Thành Phố Pleiku,Phường Hoa Lư,108.00818,13.98373,"18-20 Nguyễn Tất Thành, phường Hoa Lư, thành phố Pleiku, tỉnh Gia Lai",CCG_189
+Gia Lai,Thành Phố Pleiku,Phường Hội Thương,108.0062002,13.9769601,"6 Lê Lợi, Phường Hội Thương, Thành phố Pleiku, Tỉnh Gia Lai",CCG_190
+Gia Lai,Thành Phố Pleiku,Phường Yên Thế,107.98916,14.0305031,"841-843-845 Phạm Văn Đồng, phường Yên Thế, Thành phố Pleiku, Gia Lai",CCG_191
+Gia Lai,Huyện Chư Sê,Thị Trấn Chư Sê,108.077196,13.694485,"807D Hùng Vương, Tổ dân phố 7, thị trấn Chư Sê, huyện Chư Sê, tỉnh Gia Lai",CCG_192
+Cà Mau,Thành Phố Cà Mau,Phường 5,105.15739,9.18024,"68 Trần Hưng Đạo, phường 5, thành phố Cà Mau, Cà Mau",CCG_193
+Cà Mau,Thành Phố Cà Mau,Phường 7,105.14947,9.17418,"4B-5 Hùng Vương, Khóm 4, Phường 7, Thành phố Cà Mau, Tỉnh Cà Mau.",CCG_194
+Cà Mau,Thành Phố Cà Mau,Phường 8,105.14503,9.16749,"141B Nguyễn Tất Thành, phường 8, Thành Phố Cà Mau, tỉnh Cà Mau",CCG_195
+Cà Mau,Thành Phố Cà Mau,Xã Tắc Vân,105.26848,9.16844,"158 Quốc Lộ 1A , xã Tắc Vân, thành phố Cà Mau, tỉnh Cà mau",CCG_196
+Cà Mau,Huyện Năm Căn,Xã Đất Mới,104.993938,8.7624035,"Nguyễn Tất Thành, Khóm 2, Thị Trấn Năm Căn, Huyện Năm Căn, Tỉnh Cà Mau",CCG_197
+Cà Mau,Huyện Đầm Dơi,Thị Trấn Đầm Dơi,105.19844,8.99429,"Đường Dương Thị Cẩm Vân, Khóm 4, Thị trấn Đầm Dơi, Huyện Đầm Dơi, Tỉnh Cà Mau",CCG_198
+Cà Mau,Huyện Cái Nước,Thị Trấn Cái Nước,105.01096,8.94376,"288 Quốc lộ 1A, khóm 2, thị trấn Cái Nước, huyện Cái Nước, Cà mau",CCG_199
+Bình Định,Thị Xã An Nhơn,Phường Bình Định,109.11215,13.88906,"256 Ngô Gia Tự, phường Bình Định, thị xã An Nhơn, Tỉnh Bình Định",CCG_200
+Bình Định,Thành Phố Qui Nhơn,Phường Đống Đa,109.21944,13.78344,"9 Võ Nguyên Giáp, phường Đống Đa, Thành phố Quy Nhơn, Bình Định",CCG_201
+Bình Định,Thành Phố Qui Nhơn,Phường Đống Đa,109.20717,13.78659,"1000 Trần Hưng Đạo, phường Đống Đa, Thành phố Quy Nhơn, tỉnh Bình Định. (closed)",CCG_202
+Bình Định,Thành Phố Qui Nhơn,Phường Lê Hồng Phong,109.2263495,13.7765161,"251 Lê Hồng Phong, Phường Lê Hồng Phong, thành phố Quy Nhơn, tỉnh Bình Định  (closed)",CCG_203
+Bình Định,Thành Phố Qui Nhơn,Phường Lê Lợi,109.2328605,13.7734763,"52A Tăng Bạt Hổ, phường Lê Lợi, Thành phố Quy Nhơn, Bình Định (closed)",CCG_204
+Bình Định,Thành Phố Qui Nhơn,Phường Quang Trung,109.2137,13.76384,"394 Nguyễn Thái Học, phường Quang Trung, thành phố Quy Nhơn, tỉnh Bình Định",CCG_205
+Bình Định,Thành Phố Qui Nhơn,Phường Quang Trung,109.2083785,13.755635,"666 Nguyễn Thái Học, phường Quang Trung, Thành phố Quy Nhơn, Bình Định",CCG_206
+Bình Định,Huyện Tuy Phước,Thị Trấn Diêu Trì,109.14740686684,13.801775682227,"47 Trần Phú, Thị trấn Diêu Trì, huyện Tuy Phước, Bình Định",CCG_207
+Bình Thuận,Thị Xã La Gi,Phường Phước Hội,107.7742,10.66418,"12 Cô Giang, phường Phước Hội, Thị xã Lagi, Bình Thuận",CCG_208
+Bình Thuận,Thị Xã La Gi,Phường Tân Thiện,107.76804,10.66377,"158 Thống Nhất, phường Tân Thiện, Thị xã Lagi, Bình Thuận",CCG_209
+Bình Thuận,Thành Phố Phan Thiết,Phường Bình Hưng,108.104657,10.928338,"373 Trần Hưng Đạo, phường Bình Hưng, thành phố Phan Thiết, tỉnh Bình Thuận",CCG_210
+Bình Thuận,Thành Phố Phan Thiết,Phường Đức Thắng,108.09893,10.92481,"324 Trần Hưng Đạo, Khu Phố 1, Phường Đức Thắng, Thành phố Phan Thiết, tỉnh Bình Thuận",CCG_211
+Bình Thuận,Thành Phố Phan Thiết,Phường Phú Thủy,108.1038537,10.9363777,"157 Trần Hưng Đạo, Phú Thủy, Tp.Phan Thiết, Bình Thuận",CCG_212
+Bình Thuận,Thành Phố Phan Thiết,Phường Phú Thủy,108.10375,10.94036,"45 Trần Hưng Đạo, Phú Thủy, Thành phố Phan Thiết, Bình Thuận",CCG_213
+Bình Thuận,Thành Phố Phan Thiết,Phường Phú Thủy,108.1087414,10.9324922,"200 Thủ Khoa Huân, phường Phú Thủy, Thành phố Phan Thiết, tỉnh Bình Thuận",CCG_214
+Bình Thuận,Huyện Hàm Tân,Thị Trấn Tân Minh,107.63368441391,10.842287182118,"264 Nguyễn Huệ, Khu phố 2, Thị trấn Tân Minh, huyện Hàm Tân, Bình Thuận (closed)",CCG_215
+Bình Thuận,Huyện Tuy Phong,Thị Trấn Liên Hương,108.72856,11.225,"Thửa đất 2A.05 và 2A.06, khu dân cư A2, thị trấn Liên Hương, huyện Tuy Phong, Tỉnh Bình Thuận",CCG_216
+Bình Thuận,Huyện Tuy Phong,Thị Trấn Phan Rí Cửa,108.56598,11.17376,"207-209 Thống Nhất, Phan Rí Cửa, Tuy Phong, Bình Thuận",CCG_217
+Bình Thuận,Huyện Đức Linh,Thị Trấn Đức Tài,107.5068897825,11.149443488534,"270 Đường 3 Tháng 2, Thị trấn Đức Tài, huyện Đức Linh, Bình Thuận",CCG_218
+Bình Thuận,Huyện Hàm Thuận Nam,Thị Trấn Thuận Nam,107.86104988843,10.840885980235,"547 Trần Hưng Đạo, Thị trấn Thuận Nam, huyện Hàm Thuận Nam, Bình Thuận",CCG_219
+Bình Phước,Thị Xã Bình Long,Phường An Lộc,106.6090775,11.6544952,"269 Nguyễn Huệ, KP Bình Phú, P. An Lộc, Thị xã Bình Long, Bình Phước",CCG_220
+Bình Phước,Thị Xã Phước Long,Phường Long Phước,106.95391,11.8132,"361 DT741, Khu phố 4, phường Long Phước, thị xã Phước Long, Tỉnh Bình Phước",CCG_221
+Bình Phước,Thị Xã Phước Long,Phường Thác Mơ,106.99480924755,11.841296089429,"Đường Sáu Tháng Một, khu phố 3, phường Thác Mơ, Thị xã Phước Long, Bình Phước",CCG_222
+Bình Phước,Thành Phố Đồng Xoài,Phường Tân Đồng,106.90282,11.538608,"1108 Phú Riềng Đỏ, Tân Đồng, Đồng Xoài, Bình Phước",CCG_223
+Bình Phước,Thành Phố Đồng Xoài,Phường Tiến Thành,106.86656188965,11.528246879578,"Quốc lộ 14, Khu phố 4, phường Tiến Thành, Thành phố Đồng Xoài, Bình Phước",CCG_224
+Bình Phước,Huyện Bù Đăng,Thị Trấn Đức Phong,107.24603,11.81344,"Khu Hòa Đồng, Quốc Lộ 14, thị trấn Đức Phong, huyện Bù Đăng, tỉnh Bình Phước",CCG_225
+Bình Phước,Huyện Bù Đốp,Xã Tân Thành,106.72039,11.9253883,"ấp Tân Lợi, xã Tân Thành, huyện Bù Đốp, Bình Phước",CCG_226
+Bình Phước,Huyện Lộc Ninh,Thị Trấn Lộc Ninh,106.5877533,11.8507853,"108-110 ,Quốc lộ 13, Khu Phố Ninh Thịnh, Tt.Lộc Ninh, huyện Lộc Ninh, tỉnh Bình Phước  (closed)",CCG_227
+Bình Phước,Huyện Lộc Ninh,Xã Lộc Thái,106.6004486,11.8096581,"Số 23, tổ 01, Ấp 7, xã Lộc Thái, huyện Lộc Ninh, Bình Phước",CCG_228
+Bình Phước,Huyện Lộc Ninh,Xã Lộc Thái,106.5910721,11.8432016,"Khu phố Ninh Phú, Thị trấn Lộc Ninh, huyện Lộc Ninh, Bình Phước",CCG_229
+Bình Phước,Huyện Phú Riềng,Xã Bù Nho,106.8725281,11.7341642,"ĐT757, Thôn Tân Lực, xã Bù Nho, huyện Phú Riềng, Bình Phước",CCG_230
+Bình Phước,Huyện Phú Riềng,Xã Phú Riềng,106.89912,11.65962,"168 DT741, xã Phú Riềng, Huyện Phú Riềng, tỉnh Bình Phước.",CCG_231
+Bình Phước,Huyện Đồng Phú,Xã Tân Tiến,106.85719,11.42512,"224 Ấp Chợ, Xã Tân Tiến, huyện Đồng Phú, Tỉnh Bình Phước",CCG_232
+Bến Tre,Thành Phố Bến Tre,Phường 2,106.37796,10.2363,"179 Nguyễn Đình Chiểu, P2, Tp.Bến Tre, Bến Tre",CCG_233
+Bến Tre,Thành Phố Bến Tre,Phường Phú Tân,106.37263,10.25081,"72B Đại Lộ Đồng Khởi, Phú Tân, Tp. Bến Tre, Bến Tre",CCG_234
+Bến Tre,Huyện Chợ Lách,Thị Trấn Chợ Lách,106.119556,10.258561,"72/7B Tổ 9, Khu Phố 2, TT Chợ Lách, Huyện Chợ Lách, Tỉnh Bến Tre.",CCG_235
+Bến Tre,Huyện Châu Thành,Xã Quới Sơn,106.39105,10.30469,"376 DT883 Ấp Quới Hòa Đông, xã Quới Sơn, huyện Châu Thành, Tỉnh Bến Tre",CCG_236
+Bến Tre,Huyện Giồng Trôm,Thị Trấn Giồng Trôm,106.50563,10.150622,"Đường Nguyễn Thị Định, Khu Phố 2, Thị trấn Giồng Trôm, huyện Giồng Trôm, Bến Tre",CCG_237
+Bến Tre,Huyện Mỏ Cày Nam,Xã An Định,106.332955,10.128983,"263 Quốc Lộ 60, Khu Phố 2, Thị trấn Mỏ Cày, Huyện Mỏ Cày Nam, Bến Tre",CCG_238
+Bắc Ninh,Thành Phố Bắc Ninh,Phường Ninh Xá,106.0631028,21.1769877,"71A Nguyễn Cao, phường Ninh Xá, Thành phố Bắc Ninh, Bắc Ninh",CCG_239
+Bắc Ninh,Huyện Yên Phong,Thị Trấn Chờ,105.95562,21.19445,"30-32 Phố Chờ, Thị trấn Chờ, H. Yên Phong, Bắc Ninh",CCG_240
+Bạc Liêu,Thị Xã Giá Rai,Phường Hộ Phòng,105.41308,9.22615,"160-162 Quốc Lộ 1A, Phường Hộ Phòng, Thị xã Giá Rai, tỉnh Bạc Liêu",CCG_241
+Bạc Liêu,Thành Phố Bạc Liêu,Phường 3,105.72217,9.28725,"26 Trần Phú, Phường 3, Thành phố Bạc Liêu, Bạc Liêu",CCG_242
+Bạc Liêu,Thành Phố Bạc Liêu,Phường 7,105.72153,9.29575,"313-315 Trần Phú, Phường 7, Tp. Bạc Liêu, Bạc Liêu",CCG_243
+Bắc Giang,Thành Phố Bắc Giang,Phường Lê Lợi,106.1962099,21.2734396,"161 Lê Lợi, phường Lê Lợi, thành phố Bắc Giang, tỉnh Bắc Giang",CCG_244
+Bắc Giang,Thành Phố Bắc Giang,Xã Tân Tiến,106.2085971,21.2667767,"Big C Bắc Giang, xã Tân Tiến, Thành phố Bắc Giang, Bắc Giang",CCG_245
+Bắc Giang,Huyện Hiệp Hòa,Thị Trấn Thắng,105.9785204,21.3550932,"TTTM Golden Mall, Thị trấn Thắng, huyện Hiệp Hoà, Bắc Giang",CCG_246
+Bắc Giang,Huyện Lục Ngạn,Thị Trấn Chũ,106.5666468,21.3724465," 315 Thân Cảnh Phúc, tổ dân phố Trần Hưng Đạo, Thị trấn Chũ, huyện Lục Ngạn, Bắc Giang",CCG_247
+An Giang,Thị Xã Tân Châu,Phường Long Thạnh,105.24831,10.79746,"110 Tôn Đức Thắng, P.Long Thạnh, Thị xã Tân Châu, An Giang",CCG_248
+An Giang,Thành Phố Long Xuyên,Phường Bình Khánh,105.42638,10.39324,"956-958 Trần Hưng Đạo, khóm Bình Khánh 2, Phường Bình Khánh, Thành phố Long Xuyên, tỉnh An Giang",CCG_249
+An Giang,Thành Phố Long Xuyên,Phường Bình Khánh,105.422621,10.390914,"đường Thành Thái, khóm Bình Khánh 6, phường Bình Khánh, Thành phố Long Xuyên, An Giang",CCG_250
+An Giang,Thành Phố Long Xuyên,Phường Mỹ Bình,105.4366276,10.3850152,"2/5 Tôn Đức Thắng, P.Mỹ Bình, TP.Long Xuyên, An Giang",CCG_251
+An Giang,Thành Phố Long Xuyên,Phường Mỹ Long,105.44823,10.36728,"315/4 Trần Hưng Đạo, Phường Mỹ Long, TP Long Xuyên, An Giang",CCG_252
+An Giang,Thành Phố Long Xuyên,Phường Mỹ Xuyên,105.4378667,10.3780245,"221/7 Hà Hoàng Hổ, Mỹ Xuyên, Long Xuyên, An Giang",CCG_253
+An Giang,Thành Phố Châu Đốc,Phường Châu Phú A,105.117794,10.709005,"112 Nguyễn Văn Thoại,P. Châu Phú A, Tp.Châu Đốc, An Giang",CCG_254
+An Giang,Thành Phố Châu Đốc,Phường Châu Phú B,105.12592,10.70722,"Lê Lợi, P.Châu Phú B, Tp.Châu Đốc, An Giang",CCG_255
+An Giang,Thành Phố Châu Đốc,Phường Vĩnh Mỹ,105.13221,10.70269,"5-7 Nguyễn Tri Phương, Tổ 10, Khóm Hoà Bình, Phường Vĩnh Mỹ, TP Châu Đốc, Tỉnh An Giang.",CCG_256
+An Giang,Huyện An Phú,Thị Trấn An Phú,105.092737,10.814795,"3855-3857 đường Bạch Đằng, ấp An Hưng, thị trấn An Phú, Huyện An Phú, tỉnh An Giang",CCG_257
+An Giang,Huyện Tri Tôn,Thị Trấn Tri Tôn,105.001506,10.429112,"34 Trần Hưng Đạo, Thị trấn Tri Tôn, Huyện Tri Tôn, Tỉnh An Giang",CCG_258
+An Giang,Huyện Chợ Mới,Thị Trấn Chợ Mới,105.40399,10.55043,"Nguyễn Hữu Cảnh, Ấp Long Hòa, Thị Trấn Chợ Mới, Huyện Chợ Mới, Tỉnh An Giang",CCG_259
+An Giang,Huyện Chợ Mới,Thị Trấn Mỹ Luông,105.48966,10.50818,"200 Tỉnh lộ 942, Thị trấn Mỹ Luông, Huyện Chợ Mới, An Giang",CCG_260
+An Giang,Huyện Thoại Sơn,Thị Trấn Óc Eo,105.155425,10.2548418,"224 Nguyễn Thị Hạnh, Thị trấn Óc Eo, huyện Thoại Sơn, An Giang",CCG_261
+An Giang,Huyện Thoại Sơn,Thị Trấn Phú Hòa,105.37695,10.35991,"126 Trần Phú, Thị Trần Phú Hòa, huyện Thoại Sơn, tỉnh An Giang",CCG_262
+Lâm Đồng,Thành Phố Đà Lạt,Phường 1,108.4452158,11.9391995,"Quảng trường Lâm Viên, Trần Quốc Toản, Phường 1, Thành phố Đà Lạt, Lâm Đồng",CCG_263
+Lâm Đồng,Thành Phố Đà Lạt,Phường 11,108.497586,11.945496,"Tổ 3 Tự Phước, Phường 11, Thành phố Đà Lạt, Lâm Đồng",CCG_264
+Lâm Đồng,Thành Phố Đà Lạt,Phường 2,108.43499,11.94976,"287 Phan Đình Phùng, Phường 2, Tp. Đà Lạt, Lâm Đồng, Việt Nam",CCG_265
+Lâm Đồng,Thành Phố Đà Lạt,Phường 6,108.429405,11.953993,"15 Ngô Quyền, Phường 6, Thành phố Đà Lạt, Lâm Đồng",CCG_266
+Lâm Đồng,Thành Phố Đà Lạt,Phường 6,108.4317652,11.9419772,"4A - 4C Hải Thượng, Phường 6, Thành phố Đà Lạt, Lâm Đồng",CCG_267
+Lâm Đồng,Thành Phố Đà Lạt,Phường 8,108.441913,11.954766,"12 Nguyễn Công Trứ, Phường 8, Thành phố Đà Lạt, Lâm Đồng",CCG_268
+Lâm Đồng,Thành Phố Đà Lạt,Phường 9,108.4717519,11.9616349,"81 Mê Linh, Phường 9, Thành phố Đà Lạt, Lâm Đồng",CCG_269
+Lâm Đồng,Thành Phố Bảo Lộc,Phường 1,107.81099,11.54356,"99 Lê Hồng Phong, Phường 1,Thành phố Bảo Lộc, Lâm Đồng (closed)",CCG_270
+Lâm Đồng,Huyện Di Linh,Thị Trấn Di Linh,108.0786514,11.59317207,"827-829 Hùng Vương, tt. Di Linh, Di Linh, Lâm Đồng",CCG_271
+Lâm Đồng,Huyện Di Linh,Xã Hòa Ninh,107.942198,11.539383,"21-22 Quốc Lộ 20, Thôn 2, Xã Hòa Ninh, Huyện Di Linh, Tỉnh Lâm Đồng",CCG_272
+Lâm Đồng,Huyện Lâm Hà,Thị Trấn Đinh Văn,108.24198,11.79036,"796-798 Hùng Vương, thị trấn Đinh Văn, huyện Lâm Hà, tỉnh Lâm Đồng",CCG_273
+Lâm Đồng,Huyện Lâm Hà,Xã Tân Hà,108.1965411,11.7467518,"Thửa đất số 821, tờ bản đồ số 7, thôn Liên Trung, xã Tân Hà, huyện Lâm Hà, Lâm Đồng",CCG_274
+Lâm Đồng,Huyện Bảo Lâm,Xã Lộc An,107.901742,11.547319,"Quốc lộ 20, thôn 7, xã Lộc An, Huyện Bảo Lâm, tỉnh Lâm Đồng",CCG_275
+Lâm Đồng,Huyện Cát Tiên,Thị Trấn Đồng Nai,107.363056,11.582467,"143 Phạm Văn Đồng, Tổ dân phố 3, thị trấn Cát Tiên, huyện Cát Tiên, tỉnh Lâm Đồng",CCG_276
+Lâm Đồng,Huyện Đạ Tẻh,Thị Trấn Đạ Tẻh,107.486632,11.505532,"109 - 111 Đường 3 Tháng 2, Thị trấn Đạ Tẻh, huyện Đạ Tẻh, Lâm Đồng",CCG_277
+Lâm Đồng,Huyện Lạc Dương,Thị Trấn Lạc Dương,108.419161,12.007998,"78 Langbiang, Thị trấn Lạc Dương, huyện Lạc Dương, Lâm Đồng",CCG_278
+Lâm Đồng,Huyện Đơn Dương,Thị Trấn Thạnh Mỹ,108.484057,11.760273,"321 đường 2/4, Thị trấn Thạnh Mỹ, huyện Đơn Dương, tỉnh Lâm Đồng",CCG_279
+Lâm Đồng,Huyện Đức Trọng,Thị Trấn Liên Nghĩa,108.3716812,11.72959805,"494 Quốc lộ 20, tt. Liên Nghĩa, Đức Trọng, Lâm Đồng",CCG_280
+Lâm Đồng,Huyện Đức Trọng,Thị Trấn Liên Nghĩa,108.374139,11.736489,"19-21 Thống Nhất, Thị trấn Liên Nghĩa, Huyện Đức Trọng, Tỉnh Lâm Đồng",CCG_281
+Cần Thơ,Quận Ô Môn,Phường Châu Văn Liêm,105.62163,10.10909,"1209 Đường Quốc Lộ 91, Phường Châu Văn Liêm, Quận Ô Môn, TP Cần Thơ",CCG_282
+Cần Thơ,Quận Ninh Kiều,Phường An Hòa,105.7741573,10.051124,"133 Cách Mạng Tháng Tám, P.An Hòa, Q.Ninh Kiều, Tp. Cần Thơ   (closed)",CCG_283
+Cần Thơ,Quận Ninh Kiều,Phường An Khánh,105.75221252441,10.030634880066,"305H/10 KV3, P.An Khánh, Ninh Kiều, Tp Cần Thơ",CCG_284
+Cần Thơ,Quận Ninh Kiều,Phường An Khánh,105.7544106,10.0213253,"222 Nguyễn Hiền, Khu dân cư 91B, phường An Khánh, quận Ninh Kiều, Thành Phố Cần Thơ",CCG_285
+Cần Thơ,Quận Ninh Kiều,Phường Cái Khế,105.7739309,10.0519215,"166 Cách Mạng Tháng 8, phường Cái Khế, quận Ninh Kiều, Thành phố Cần Thơ",CCG_286
+Cần Thơ,Quận Ninh Kiều,Phường Hưng Lợi,105.764466,10.021057,"198 Đường 3 tháng 2, phường Hưng Lợi, Quận Ninh Kiều, Thành phố Cần Thơ, Cần Thơ",CCG_287
+Cần Thơ,Quận Ninh Kiều,Phường Thới Bình,105.778797,10.044079,"50B Hùng Vương, P.Thới Bình, Q.Ninh Kiều, Cần Thơ",CCG_288
+Cần Thơ,Quận Ninh Kiều,Phường Xuân Khánh,105.77697,10.02701,"1A Mậu Thân, phường Xuân Khánh, Quận Ninh Kiều, Thành phố Cần Thơ",CCG_289
+Cần Thơ,Quận Bình Thuỷ,Phường An Thới,105.7645,10.06081,"8A Cách Mạng Tháng 8, P. An Thới, Quận Bình Thủy, Cần Thơ",CCG_290
+Cần Thơ,Quận Bình Thuỷ,Phường Bình Thủy,105.7492621,10.0751258,"41A Lê Hồng Phong, phường Bình Thủy, Quận Bình Thủy, Thành phố Cần Thơ",CCG_291
+Cần Thơ,Quận Bình Thuỷ,Phường Trà Nóc,105.71592,10.09926,"8/8 Lê Hồng Phong, Phường Trà Nóc, Quận Bình Thuỷ, Thành phố Cần Thơ",CCG_292
+Cần Thơ,Quận Thốt Nốt,Phường Thốt Nốt,105.53092,10.271,"Quốc lộ 91, KV Long Thạnh 1, phường Thốt Nốt, quận Thốt Nốt, Thành Phố Cần Thơ",CCG_293
+Bà Rịa - Vũng Tàu,Thành Phố Bà Rịa,Phường Phước Hiệp,107.1684066,10.4922072,"Go! Mall Bà Rịa, Lê Thành Duy, phường Phước Hiệp, Thành phố Bà Rịa, Bà Rịa - Vũng Tàu",CCG_294
+Bà Rịa - Vũng Tàu,Thành Phố Bà Rịa,Phường Phước Hiệp,107.17274,10.49946," 85 Nguyễn Thanh Đằng, Phước Hiệp, Tp. Bà Rịa, Bà Rịa - Vũng Tàu",CCG_295
+Bà Rịa - Vũng Tàu,Thành Phố Bà Rịa,Phường Phước Trung,107.17355,10.49133,"62 Nguyễn Hữu Thọ, Phường Phước Trung, thành phố Bà Rịa, tỉnh Bà Rịa Vũng Tàu",CCG_296
+Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,Phường 11,107.13579,10.41122,"1107 đường 30 tháng 4, phường 11, Thành phố Vũng Tàu, tỉnh Bà Rịa Vũng Tàu",CCG_297
+Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,Phường 2,107.0860845,10.3363815,"144 Hoàng Hoa Thám, Phường 2, Thành phố Vũng Tàu, tỉnh Bà Rịa – Vũng Tàu (closed)",CCG_298
+Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,Phường 3,107.0848445,10.3545796,"288 Trương Công Định, Phường 3, Thành phố Vũng Tàu, tỉnh Bà Rịa Vũng Tàu",CCG_299
+Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,Phường 9,107.0839513,10.3685626,"305 Nguyễn An Ninh, Phường 9, TP. Vũng Tàu, Tỉnh Bà Rịa-Vũng Tàu",CCG_300
+Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,Phường Nguyễn An Ninh,107.1119452,10.3780047,"D1 - 3/5 Nguyễn Hữu Cảnh, Trung tâm Đô thị Chí Linh, phường Nguyễn An Ninh, Thành phố Vũng Tàu, Bà Rịa - Vũng Tàu",CCG_301
+Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,Phường Nguyễn An Ninh,107.0932214,10.363722," 601 Nguyễn An Ninh, Khu phố 3, phường Nguyễn An Ninh, Thành phố Vũng Tàu, Bà Rịa-Vũng Tàu (closed)",CCG_302
+Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,Phường Rạch Dừa,107.11441,10.39901,"559-561-563 đường 30/4, P. Rạch Dừa, Tp. Vũng Tàu, tỉnh Bà  Rịa - Vũng Tàu",CCG_303
+Bà Rịa - Vũng Tàu,Thành phố Vũng Tàu,Phường Thắng Nhất,107.1070314,10.3872814,"177 Nguyễn Hữu Cảnh, phường Thắng Nhất, Thành phố Vũng Tàu, Bà Rịa - Vũng Tàu",CCG_304
+Bà Rịa - Vũng Tàu,Huyện Tân Thành,Xã Châu Pha,107.05443,10.59992,"Thửa đất 2181 Quốc lộ 51, thôn Tân Phú, thị trấn Phú Mỹ, huyện Tân Thành, tỉnh Bà Rịa - Vũng Tàu",CCG_305
+Bà Rịa - Vũng Tàu,Huyện Tân Thành,Phường Mỹ Xuân,107.05530077219,10.623795840991,"Tổ 02, Khu phố Thị Vải, phường Mỹ Xuân, Thị xã Phú Mỹ, Bà Rịa - Vũng Tàu",CCG_306
+Bà Rịa - Vũng Tàu,Huyện Tân Thành,Phường Phú Mỹ,107.06006,10.56306,"Quốc Lô 51, Khu Phố Ông Trịnh, Phường Tân Phước, Thị Xã Phú Mỹ, Huyện Tân Thành, Tỉnh Bà Rịa Vũng Tàu",CCG_307
+Bà Rịa - Vũng Tàu,Huyện Tân Thành,Phường Phú Mỹ,107.05472,10.62376,"Quốc Lộ 51, ấp Bến đình, xã Mỹ xuân, huyện Tân thành, Bà rịa Vũng Tàu  (đóng cửa)",CCG_308
+Bà Rịa - Vũng Tàu,Huyện Châu Đức,Thị Trấn Ngãi Giao,107.24614,10.648,"236-238 Hùng Vương, thị trấn Ngãi Giao, huyện Châu Đức, tỉnh Bà Rịa Vũng Tàu",CCG_309
+Bà Rịa - Vũng Tàu,Huyện Châu Đức,Xã Nghĩa Thành,107.20835968852,10.584608364539,"Đường số 6, thôn Vĩnh Sơn, xã Nghĩa Thành, huyện Châu Đức, Bà Rịa - Vũng Tàu",CCG_310
+Bà Rịa - Vũng Tàu,Huyện Long Điền,Xã Phước Hưng,107.22069,10.40827,"C50 Tỉnh Lộ 44A, Ấp Phước Lộc, Xã Phước Hưng, Huyện Long Điền, Tỉnh Bà Rịa Vũng Tàu",CCG_311
+Bà Rịa - Vũng Tàu,Huyện Xuyên Mộc,Xã Hòa Bình,107.372287,10.627247,"189 Đường 328, Ấp 4, Tổ 9, xã Hòa Bình, huyện Xuyên Mộc, Bà Rịa Vũng Tàu",CCG_312
+Bà Rịa - Vũng Tàu,Huyện Xuyên Mộc,Thị Trấn Phước Bửu,107.3993437,10.5347981,"6 - 8 Huỳnh Minh Thạnh, Thị trấn Phước Bửu, Huyện Xuyên Mộc, Tỉnh Bà Rịa – Vũng Tàu",CCG_313
+Bà Rịa - Vũng Tàu,Huyện Đất Đỏ,Thị Trấn Phước Hải,107.289006,10.420061," 2/8, Đường Võ Thị Sáu, Khu phố Hải Tân, Thị trấn Phước Hải, huyện Đất Đỏ, Bà Rịa-Vũng Tàu",CCG_314
+Long An,Thị trấn Bến Lức,Thị Trấn Bến Lức,106.490114,10.635555,"2 Phan Văn Mãng, Thị trấn Bến Lức, Bến Lức, Long An",CCG_315
+Long An,Thị trấn Bến Lức,Thị Trấn Bến Lức,106.4948787,10.6273145,"185 Phan Văn Mãng, Thị trấn Bến Lức, Bến Lức, Long An",CCG_316
+Long An,Thị trấn Bến Lức,Thị Trấn Bến Lức,106.485793,10.641633,"5 Nguyễn Văn Siêu, Khu phố 2, Thị trấn Bến Lức, huyện Bến Lức, Long An",CCG_317
+Long An,Thị trấn Bến Lức,Xã Phước Lợi,106.53593,10.63674,"277-278 ĐT835, ấp Chợ, xã Phước Lợi, huyện Bến Lức ,tỉnh Long An",CCG_318
+Long An,Thị trấn Bến Lức,Xã Thạnh Đức,106.469174,10.636517,"229-230 Quốc lộ 1A, Ấp 1, Xã Thạnh Đức, Huyện Bến Lức, Long An",CCG_319
+Long An,Thành Phố Tân An,Phường 2,106.40515,10.53784,"70 Hùng Vương , Phường 2, Thành phố Tân An, Long An",CCG_320
+Long An,Thành Phố Tân An,Phường 3,106.417529,10.530762,"450 Hùng Vương, Phường 3, Thành phố Tân An,  Long An",CCG_321
+Long An,Thành Phố Tân An,Phường 5,106.416681,10.550926,"Số 30 Quốc Lộ 1A, Phường 5, Thành Phố Tân An, Tỉnh Long An.",CCG_322
+Long An,Thành Phố Tân An,Phường 6,106.3949,10.54367,"167 Quốc lộ 62, Phường 6, Thành phố Tân An, Long An",CCG_323
+Long An,Huyện Mộc Hóa,Xã Bình Hiệp,105.93552,10.77654,"10 Phan Chu Trinh, Khu phố 1, Phường 1, Thị Xã Kiến Tường, Huyện Mộc Hóa, Tỉnh Long An",CCG_324
+Long An,Huyện Tân Trụ,Thị Trấn Tân Trụ,106.507981,10.513603,"Số 15 đường ĐT833, Thị trấn Tân Trụ, huyện Tân Trụ, Long An",CCG_325
+Long An,Huyện Vĩnh Hưng,Thị Trấn Vĩnh Hưng,105.78762944788,10.887444074109,"50 - 52 Cách Mạng Tháng Tám, Khu phố 1, Thị trấn Vĩnh Hưng, huyện Vĩnh Hưng, Long An",CCG_326
+Long An,Huyện Đức Hòa,Xã Đức Hòa Hạ,106.4755198,10.81154345," 16 Tỉnh lộ 825, Ấp Bình Tả 2, Xã Đức Hoà Hạ, Huyện Đức Hoà, Tỉnh Long An",CCG_327
+Long An,Huyện Đức Hòa,Xã Đức Lập Hạ,106.432652,10.918121,"23 DT823, Ấp Đức Hạnh 2, Xã Đức Lập Hạ, Huyện Đức Hòa, Tỉnh Long An",CCG_328
+Long An,Huyện Đức Hòa,Xã Đức Lập Hạ,106.41851045933,10.902107987425,"Số 159-160 Quốc Lộ N2, xã Đức Lập Hạ, huyện Đức Hòa, Long An",CCG_329
+Long An,Huyện Đức Hòa,Xã Hòa Khánh Đông,106.4208914,10.8412753,"101 Quốc Lộ N2, ấp Bình Thuỷ, xã Hoà Khánh Đông, huyện Đức Hoà, Long An",CCG_330
+Long An,Huyện Đức Hòa,Xã Mỹ Hạnh Nam,106.512727,10.876101,"ĐT824, Ấp Mới 2, Xã Mỹ Hạnh Nam, Huyện Đức Hòa, Long An",CCG_331
+Long An,Huyện Châu Thành,Thị Trấn Tầm Vu,106.4679,10.44698,"216 Đỗ Tường Phong, Thị Trấn Tầm Vu, huyện Châu Thành, tỉnh Long An",CCG_332
+Long An,Huyện Tân Thạnh,Xã Bắc Hòa,106.047423,10.610887," Số 38 Quốc Lộ 62, Khu Phố 3, Thị trấn Tân Thạnh, huyện Tân Thạnh, Long An.",CCG_333
+Long An,Huyện Thạnh Hóa,Thị Trấn Thạnh Hóa,106.18199,10.65746,"11 Nguyễn Trung Trực, thị trấn Thạnh Hóa, Huyện Thạnh Hóa, Tỉnh Long An",CCG_334
+Long An,Huyện Thủ Thừa,Thị Trấn Thủ Thừa,106.403767,10.599651,"Số 4/1 KII Ô2 Phan Văn Tình, Thị trấn Thủ Thừa, huyện Thủ Thừa, Long An",CCG_335
+Long An,Huyện Cần Giuộc,Thị Trấn Cần Giuộc,106.6713064,10.6061136,"105 - 107 Quốc Lộ 50, Thị trấn Cần Giuộc, Huyện Cần Giuộc, Tỉnh Long An",CCG_336
+Long An,Huyện Cần Giuộc,Xã Trường Bình,106.66485,10.60083,"Số 01 Quốc Lộ 50, Xã Trường Bình, Huyện Cần Giuộc, Tỉnh Long An",CCG_337
+Long An,Huyện Cần Đước,Thị Trấn Cần Đước,106.604952,10.504371,"299 Quốc Lộ 50, Khu 1A, Thị trấn Cần Đước, huyện Cần Đước, tỉnh Long An",CCG_338
+Long An,Huyện Cần Đước,Xã Long Hòa,106.589549,10.581916,"46 đường Chợ Mới, xã Long Hòa, huyện Cần Đước, Long An",CCG_339
+Đà Nẵng,Quận Sơn Trà,Phường An Hải Bắc,108.232778,16.078848," 824 Ngô Quyền, phường An Hải Bắc, Quận Sơn Trà, Thành phố Đà Nẵng",CCG_340
+Đà Nẵng,Quận Sơn Trà,Phường An Hải Đông,108.24001428197,16.05499723158,"119 Nguyễn Văn Thoại, phường An Hải Đông, quận Sơn Trà, Thành phố Đà Nẵng",CCG_341
+Đà Nẵng,Quận Sơn Trà,Phường Thọ Quang,108.2495406,16.1010165,"8 Nguyễn Phan Vinh, phường Thọ Quang, quận Sơn Trà, Thành phố Đà Nẵng",CCG_342
+Đà Nẵng,Quận Cẩm Lệ,Phường Hòa Thọ Đông,108.2043688,16.0173863,"42 Ông Ích Đường, Phường Hoà Thọ Đông, Quận Cẩm Lệ, TP Đà Nẵng",CCG_343
+Đà Nẵng,Quận Cẩm Lệ,Phường Hòa Xuân,108.2232486,16.0039623,"90 Võ Chí Công, phường Hòa Xuân, quận Cẩm Lệ, Thành phố Đà Nẵng",CCG_344
+Đà Nẵng,Quận Cẩm Lệ,Phường Khuê Trung,108.21087959729,16.019781385991,"đường Nguyễn Hữu Thọ, phường Khuê Trung, quận Cẩm Lệ, Thành phố Đà Nẵng",CCG_345
+Đà Nẵng,Quận Thanh Khê,Phường Thanh Khê Đông,108.187251,16.070202,"36 Nguyễn Đức Trung, Phường Thanh Khê Đông, Quận Thanh Khê, Thành phố Đà Nẵng",CCG_346
+Đà Nẵng,Quận Thanh Khê,Phường Vĩnh Trung,108.21392216044,16.067379561385,"362-364 Ông Ích Khiêm, Phường Vĩnh Trung, Quận Thanh Khê, Thành Phố Đà Nẵng",CCG_347
+Đà Nẵng,Quận Hải Châu,Phường Hòa Cường Bắc,108.221046,16.046277,"164  Núi Thành, phường Hòa Cường Bắc, quận Hải Châu, Thành phố Đà Nẵng",CCG_348
+Đà Nẵng,Quận Hải Châu,Phường Phước Ninh,108.2197271,16.0605978," 81-83 Nguyễn Văn Linh, phường Phước Ninh, quận Hải Châu, Thành phố Đà Nẵng",CCG_349
+Đà Nẵng,Quận Liên Chiểu,Phường Hòa Khánh Băc,108.151469,16.069599,"Số 842-844 Tôn Đức Thắng, Phường Hòa Khánh Bắc, quận Liên Chiểu, Đà Nẵng",CCG_350
+Đà Nẵng,Quận Liên Chiểu,Phường Hòa Minh,108.172331,16.057232,"199 Tôn Đức Thắng, Phường Hoà Minh, Quận Liên Chiểu, Tỉnh Đà Nẵng",CCG_351
+Đà Nẵng,Quận Ngũ Hành Sơn,Phường Khuê Mỹ,108.2506649,16.0234759,"93-95 Lê Văn Hiến, phường Khuê Mỹ, quận Ngũ Hành Sơn, thành phố Đà Nẵng.",CCG_352
+Đà Nẵng,Huyện Hoà Vang,Xã Hòa Phong,108.140032,15.990839,"Đường Quảng Xương, thôn Túy Loan, xã Hòa Phong, huyện Hòa Vang, Thành phố Đà Nẵng",CCG_353
+Hà Nội,Quận Ba Đình,Phường Ngọc Hà,105.827138,21.034752,"Số 147K Đội Cấn, phường Ngọc Hà, quận Ba Đình, Thành phố Hà Nội",CCG_354
+Hà Nội,Quận Ba Đình,Phường Ngọc Khánh,105.809321,21.026906,"933 La Thành, P.Ngọc Khánh, Quận Ba Đình, Thành Phố Hà Nội",CCG_355
+Hà Nội,Quận Hà Đông,Phường Dương Nội,105.7512911,20.9892954,"T313 Tầng 3 AEONMALL Hà Đông, phường Dương Nội, quận Hà Đông, Thành phố Hà Nội",CCG_356
+Hà Nội,Quận Hà Đông,Phường Mộ Lao,105.7868734,20.9845112,"16B-4 phố Nguyễn Văn Lộc, phường Mộ Lao, quận Hà Đông, Thành phố Hà Nội",CCG_357
+Hà Nội,Quận Hà Đông,Phường Phúc La,105.792654,20.962628,"BT8-VT11 Khu nhà ở Xa La, phường Phúc La, quận Hà Đông, thành phố Hà Nội",CCG_358
+Hà Nội,Quận Thanh Xuân,Phường Khương Mai,105.82842886448,21.000178922763,"BS 7+8+8 tầng hầm 1 TTTM Go! Lê Trọng Tấn, phường Khương Mai, quận Thanh Xuân, Thành phố Hà Nội",CCG_359
+Hà Nội,Quận Cầu Giấy,Phường Trung Hòa,105.7929976,21.0076674,"TTM Go! Thăng Long, 222 Trần Duy Hưng, phường Trung Hoà, quận Cầu Giấy, Thành phố Hà Nội",CCG_360
+Hà Nội,Huyện Gia Lâm,Thị Trấn Trâu Quỳ,105.938043,21.0213371,"205 Nguyễn Đức Thuận, Thị trấn Trâu Quỳ, huyện Gia Lâm, Thành phố Hà Nội",CCG_361
+Hà Nội,Huyện Thanh Trì,Xã Thanh Liệt,105.807854,20.957341,"340 - 342 Phan Trọng Tuệ, xã Thanh Liệt, huyện Thanh Trì, Thành phố Hà Nội",CCG_362
+Hà Nội,Huyện Đan Phượng,Thị Trấn Phùng,105.6640845,21.0865322,"22 - 24 Nguyễn Thái Học, Thị trấn Phùng, huyện Đan Phượng, Thành phố Hà Nội",CCG_363
+Đồng Nai,Thành Phố Biên Hòa,Phường Bình Đa,106.8641187,10.9292571,"93 Vũ Hồng Phô, Khu phố 2, phường Bình Đa, Thành phố Biên Hòa, Đồng Nai",CCG_364
+Đồng Nai,Thành Phố Biên Hòa,Phường Hố Nai,106.8844255,10.9683914,"20/83 Lê Đại Hành, Khu phố 12, phường Hố Nai, Thành phố Biên Hòa, Đồng Nai",CCG_365
+Đồng Nai,Thành Phố Biên Hòa,Phường Hòa Bình,106.8082317,10.9525063,"537 Cách Mạng Tháng 8, phường Hòa Bình, Thành phố Biên Hòa, Đồng Nai",CCG_366
+Đồng Nai,Thành Phố Biên Hòa,Phường Hòa Bình,106.81288,10.94995,"121A - 123 Cách Mạng Tháng Tám, phường Hòa Bình, Thành phố Biên Hòa, Đồng Nai",CCG_367
+Đồng Nai,Thành Phố Biên Hòa,Phường Long Bình,106.8685837,10.9407444,"34 Khu Phố 4, Long Bình, Tp. Biên Hòa, Đồng Nai",CCG_368
+Đồng Nai,Thành Phố Biên Hòa,Phường Long Bình,106.886361,10.913942,"845 Bùi Văn  Hòa, khu phố 7, phường Long Bình, Thành Phố Biên Hòa, Tỉnh Đồng Nai",CCG_369
+Đồng Nai,Thành Phố Biên Hòa,Phường Long Bình,106.878556,10.953,"19/68 đường 643 - Xa lộ Hà Nội, Khu phố 1, phường Long Bình, Thành phố Biên Hòa, Đồng Nai",CCG_370
+Đồng Nai,Thành Phố Biên Hòa,Phường Long Bình,106.8796329,10.9405324," 376 Hoàng Bá Bích, Khu phố 5A, phường Long Bình, Thành phố Biên Hoà, Đồng Nai",CCG_371
+Đồng Nai,Thành Phố Biên Hòa,Phường Long Bình Tân,106.85416,10.900678," F7/1 - F7/2 Quốc Lộ 51, Khu Phố 1, phường Long Bình Tân, Thành phố Biên Hòa, Đồng Nai",CCG_372
+Đồng Nai,Thành Phố Biên Hòa,Phường Long Bình Tân,106.8504338,10.9056093,"Big C Đồng Nai, 833 Xa lộ Hà Nội, Long Bình Tân, Thành phố Biên Hòa, Đồng Nai",CCG_373
+Đồng Nai,Thành Phố Biên Hòa,Phường Long Bình Tân,106.8671662733,10.89657313416,"08, Tổ 2, Khu phố 2, phường Long Bình Tân, Thành phố Biên Hòa, Đồng Nai",CCG_374
+Đồng Nai,Thành Phố Biên Hòa,Phường Phước Tân,106.9101585,10.8741007,"Thửa đất số 104, tờ bản đồ 97, Quốc lộ 51, phường Phước Tân, Thành phố Biên Hòa, Đồng Nai",CCG_375
+Đồng Nai,Thành Phố Biên Hòa,Phường Phước Tân,106.90609954297,10.892595995839,"144 Đinh Quang Ân, Ấp Hương Phước, Phường Phước Tân, Thành Phố Biên Hòa, Đồng Nai",CCG_376
+Đồng Nai,Thành Phố Biên Hòa,Phường Quyết Thắng,106.8202511,10.9486288,"337 Đường 30 tháng 4, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai",CCG_377
+Đồng Nai,Thành Phố Biên Hòa,Phường Tam Hiệp,106.85636,10.94668,"633 Phạm Văn Thuận, xã Tam Hiệp, Thành phố Biên Hòa, Tỉnh Đồng Nai",CCG_378
+Đồng Nai,Thành Phố Biên Hòa,Phường Tam Hiệp,106.857865,10.956323,"28 Lý Văn Sâm, Khu phố 6, phường Tam Hiệp, Thành phố Biên Hoà, Đồng Nai (coming soon)",CCG_379
+Đồng Nai,Thành Phố Biên Hòa,Phường Tam Hiệp,106.85785431415,10.956303479169,"28 Lý Văn Sâm, phường Tam Hiệp, Thành phố Biên Hòa, Đồng Nai",CCG_380
+Đồng Nai,Thành Phố Biên Hòa,Phường Tam Phước,106.928087,10.853492,"296 - 297 Quốc lộ 51, ấp Long Khánh 3, xã Tam Phước, Thành phố Biên Hòa, Đồng Nai",CCG_381
+Đồng Nai,Thành Phố Biên Hòa,Phường Tam Phước,106.96709197015,10.868513420949,"53 Nguyễn Khắc Hiếu, Khu phố Long Đức 1, phường Tam Phước, Thành phố Biên Hòa, Đồng Nai",CCG_382
+Đồng Nai,Thành Phố Biên Hòa,Phường Tân Hiệp,106.86874,10.95379,"G1, đường Đồng Khởi, phường Tân Hiệp, thành phố Biên Hòa, tỉnh Đồng Nai",CCG_383
+Đồng Nai,Thành Phố Biên Hòa,Phường Tân Hiệp,106.8742252,10.9546545,"530 Xa Lộ Hà Nội, Khu phố 4, phường Tân Hiệp, Thành phố Biên Hòa, Đồng Nai",CCG_384
+Đồng Nai,Thành Phố Biên Hòa,Phường Tân Phong,106.8478936,10.9786529,"58 Đồng Khởi, Khu phố 11, Phường Tân Phong, Thành phố Biên Hòa, Tỉnh Đồng Nai",CCG_385
+Đồng Nai,Thành Phố Biên Hòa,Phường Thống Nhất,106.8357534,10.9585409,"178 Phạm Văn Thuận, P.Thống Nhất, Tp. Biên Hòa, Đồng Nai",CCG_386
+Đồng Nai,Thành Phố Biên Hòa,Phường Trảng Dài,106.8531036,10.97249889,"1B - 5 Bùi Trọng Nghĩa, Phường Trảng Dài, Thành phố Biên Hòa, Tỉnh Đồng Nai (closed)",CCG_387
+Đồng Nai,Thành Phố Biên Hòa,Phường Trảng Dài,106.867531,10.985787,"2/11 Trần Văn Xã, Khu Phố 4, Phường Trảng Dài, Thành Phố Biên Hòa, Tỉnh Đồng Nai",CCG_388
+Đồng Nai,Thành Phố Biên Hòa,Phường Trảng Dài,106.8661833,10.974653,"82A Nguyễn Phúc Chu, phường Trảng Dài, Thành phố Biên Hòa, Đồng Nai",CCG_389
+Đồng Nai,Thành Phố Biên Hòa,Phường Trảng Dài,106.8628613,10.9838963,"2 Trần Văn Xã, Khu phố 3A, phường Trảng Dài, Thành phố Biên Hoà, Đồng Nai",CCG_390
+Đồng Nai,Thành Phố Long Khánh,Phường Xuân An,107.24409,10.9322," 7 Lê Lợi, P. Xuân An, Thị Xã Long Khánh, Đồng Nai",CCG_391
+Đồng Nai,Thành Phố Long Khánh,Phường Xuân An,107.2523015,10.9340293,"194 Trần Phú, Khu Phố 3, Phường Xuân An, Thị xã Long Khánh, tỉnh Đồng Nai",CCG_392
+Đồng Nai,Huyện Cẩm Mỹ,Xã Sông Ray,107.3353083,10.7629511,"40 DT764, Ấp 9, xã Sông Ray, huyện Cẩm Mỹ, Đồng Nai",CCG_393
+Đồng Nai,Huyện Long Thành,Xã An Hòa,106.9633026,10.8622942," 129 Phùng Hưng, khu 4, ấp 8, Thị trấn Long Thành, Đồng Nai",CCG_394
+Đồng Nai,Huyện Long Thành,Xã Long Phước,107.0059,10.70996,"1324 Quốc lộ 51, xã Long Phước, huyện Long Thành, tỉnh Đồng Nai. ",CCG_395
+Đồng Nai,Huyện Long Thành,Thị Trấn Long Thành,106.952304,10.780381,"Ngã tư Lê Duẫn giao Hai Bà Trưng, Khu Phước Hải, Quốc Lộ 51, Thị Trấn Long Thành, Huyện Long Thành, Đồng Nai",CCG_396
+Đồng Nai,Huyện Long Thành,Thị Trấn Long Thành,106.9647604,10.769497," 93 Bưng Môn, Tổ 6, Ấp 4, xã Long An, huyện Long Thành, Đồng Nai (closed)",CCG_397
+Đồng Nai,Huyện Long Thành,Xã Phước Thái,107.0280075,10.67731953,"1912 Quốc Lộ 51, Tổ 1, Ấp 1C, Xã Phước Thái, Huyện Long Thành, Tỉnh Đồng Nai",CCG_398
+Đồng Nai,Huyện Trảng Bom,Xã An Viễn,107.00407,10.94984,"49F Đường 30/4 Thị Trấn Trảng Bom, huyện Trảng Bom, Tỉnh Đồng Nai",CCG_399
+Đồng Nai,Huyện Trảng Bom,Xã Bắc Sơn,106.953166,10.952213,"372 Bắc Sơn - Long Thành, thôn Đông Bình, ấp Bùi Chu, xã Bắc Sơn, huyện Trảng Bom, Đồng Nai",CCG_400
+Đồng Nai,Huyện Trảng Bom,Xã Bắc Sơn,106.95995863527,10.979249329317,"Tỉnh lộ 767, thôn Tây Lạc, ấp An Chu, xã Bắc Sơn, huyện Trảng Bom, Đồng Nai",CCG_401
+Đồng Nai,Huyện Trảng Bom,Xã Bình Minh,106.98095,10.94714,"Số 1435 Quốc Lộ 1A, Ấp Trà Cổ, Xã Bình Minh, Huyện Trảng Bom, tỉnh Đồng Nai",CCG_402
+Đồng Nai,Huyện Trảng Bom,Xã Đông Hòa,107.06689,10.94352,"63 Quốc Lộ 1A, Xã Đông Hoà, Huyện Trảng Bom,tỉnh Đồng Nai",CCG_403
+Đồng Nai,Huyện Trảng Bom,Xã Hố Nai 3,106.947548,10.960838,"2227 Quốc lộ 1A, xã Hố Nai 3, huyện Trảng Bom, tỉnh Đồng Nai",CCG_404
+Đồng Nai,Huyện Trảng Bom,Xã Hố Nai 3,106.934453,10.965406,"2698 Quốc Lộ 1A, xã Hố Nai 3, Huyện Trảng Bom, tỉnh Đồng Nai",CCG_405
+Đồng Nai,Huyện Trảng Bom,Thị Trấn Trảng Bom,107.01149,10.95627,"32A Hùng Vương, Khu Phố 2, Thị Trấn Trảng Bom, huyện Trảng Bom, Đồng Nai",CCG_406
+Đồng Nai,Huyện Vĩnh Cửu,Xã Tân Bình,106.8095654,10.9989739,"344F Tỉnh lộ 768, ấp Bình Phước, xã Tân Bình, huyện Vĩnh Cửu, Đồng Nai",CCG_407
+Đồng Nai,Huyện Vĩnh Cửu,Xã Thạnh Phú,106.8520996,11.012687,"Đường DT768, ấp 1, xã Thạnh Phú, Vĩnh Cửu, Đồng Nai",CCG_408
+Đồng Nai,Huyện Vĩnh Cửu,Thị Trấn Vĩnh An,107.03353296965,11.085121314993,"101 Nguyễn Tất Thành, Tổ 1, Khu phố 5, Thị trấn Vĩnh An, huyện Vĩnh Cửu, Đồng Nai",CCG_409
+Đồng Nai,Huyện Xuân Lộc,Thị Trấn Gia Ray,107.40223,10.9254,"240 Hùng Vương, khu phố 5, thị trấn Gia Ray, huyện Xuân Lộc, tỉnh Đồng Nai",CCG_410
+Đồng Nai,Huyện Xuân Lộc,Xã Xuân Tâm,107.4404844,10.87891,"2089 Quốc Lộ 1A, ấp 5, xã Xuân Tâm, huyện Xuân Lộc, Đồng Nai",CCG_411
+Đồng Nai,Huyện Nhơn Trạch,Xã Đại Phước,106.8203,10.73311,"2551 Lý Thái Tổ, xã Đại Phước, huyện Nhơn Trạch, tỉnh Đồng Nai",CCG_412
+Đồng Nai,Huyện Nhơn Trạch,Xã Đại Phước,106.812973,10.738663,"2744CT Lý Thái Tổ, ấp Phước Lý, xã Đại Phước, huyện Nhơn Trạch, Đồng Nai",CCG_413
+Đồng Nai,Huyện Nhơn Trạch,Thị Trấn Hiệp Phước,106.9462204,10.73791885,"15 Tôn Đức Thắng, ấp 3, xã Hiệp Phước, huyện Nhơn Trạch, Đồng Nai",CCG_414
+Đồng Nai,Huyện Nhơn Trạch,Thị Trấn Hiệp Phước,106.945303,10.7413588,"292 Hùng Vương, Khu phố Phước Kiểng, Thị trấn Hiệp Phước, huyện Nhơn Trạch, Đồng Nai",CCG_415
+Đồng Nai,Huyện Nhơn Trạch,Xã Long Thọ,106.955408,10.722995,"771 Hùng Vương, Tổ 10, Ấp 1, xã Long Thọ, huyện Nhơn Trạch, Đồng Nai",CCG_416
+Đồng Nai,Huyện Nhơn Trạch,Xã Phước Thiền,106.9230326,10.7575756,"450 Lý Thái Tổ, Ấp Bến Cam, Xã Phước Thiền, Huyện Nhơn Trạch, Tỉnh Đồng Nai",CCG_417
+Đồng Nai,Huyện Nhơn Trạch,Xã Phước Thiền,106.941245,10.758163,"114 Lý Thái Tổ, Ấp Trầu, Phước Thiền, Nhơn Trạch, Đồng Nai",CCG_418
+Đồng Nai,Huyện Nhơn Trạch,Xã Phước Thiền,106.92986559123,10.752126619297,"55/7 Phạm Văn Đồng, xã Phước Thiền, huyện Nhơn Trạch, Đồng Nai",CCG_419
+Đồng Nai,Huyện Định Quán,Thị Trấn Định Quán,107.35213,11.19627,"Số 22, Quốc Lộ 22, ấp 114, thị trấn Định Quán, huyện Định Quán, tỉnh Đồng Nai",CCG_420
+Đồng Nai,Huyện Định Quán,Xã Phú Túc,107.211498,11.089679,"4/4 Quốc lộ 20, Ấp Chợ, xã Phú Túc, huyện Định Quán, Đồng Nai",CCG_421
+Đồng Nai,Huyện Định Quán,Xã Phú Vinh,107.362336,11.207086,"Số 3 Phố 1, Ấp 3, Xã Phú Vinh, Huyện Định Quán, Tỉnh Đồng Nai",CCG_422
+Đồng Nai,Huyện Định Quán,Xã Suối Nho,107.280947,11.040937,"36/3 DT763, Âp 1, xã Suối Nho, huyện Định Quán, Đồng Nai",CCG_423
+Đồng Nai,Huyện Thống Nhất,Xã Bàu Hàm 2,107.139679,10.944757,"665 Quốc lộ 20, tổ 20, Khu phố Trần Cao Vân, Thị trấn Dầu Giây, Huyện Thống Nhất, Tỉnh Đồng Nai",CCG_424
+Bình Dương,Thị Xã Bến Cát,Phường Chánh Phú Hòa,106.670101,11.14554,"Số 41 đường ĐT741, Khu phố 3, phường Chánh Phú Hòa, Thị xã Bến Cát, Bình Dương",CCG_425
+Bình Dương,Thị Xã Bến Cát,Phường Hòa Lợi,106.66375,11.08023,"ĐT741 khu phố Phú Nghị, phường Hòa Lợi, Thị xã Bến Cát, Bình Dương",CCG_426
+Bình Dương,Thị Xã Bến Cát,Phường Mỹ Phước,106.59138,11.15255,"426 đường 30 tháng 4, Khu phố 2, P.Mỹ Phước, Thị xã Bến Cát, Tỉnh Bình Dương",CCG_427
+Bình Dương,Thị Xã Bến Cát,Phường Mỹ Phước,106.605964,11.130442," Lô CC1, đường N1, Phường Mỹ Phước, Thị xã Bến Cát, Tỉnh Bình Dương",CCG_428
+Bình Dương,Thị Xã Bến Cát,Phường Mỹ Phước,106.590289,11.153081,"101 Hùng Vương, phường Mỹ Phước, Thị xã Bến Cát, Bình Dương",CCG_429
+Bình Dương,Thị Xã Bến Cát,Phường Mỹ Phước,106.608227,11.143748,"Đường DB8, khu đô thị Mỹ Phước 2, phường Mỹ Phước, Thị xã Bến Cát, Bình Dương",CCG_430
+Bình Dương,Thị Xã Bến Cát,Phường Tân Định,106.633548,11.045762,"Quốc Lộ 13, phường Tân Định, Thị xã  Bến Cát, Bình Dương",CCG_431
+Bình Dương,Thị Xã Bến Cát,Phường Thới Hòa,106.60687,11.12578,"Lô R1, Đường D10, Khu TM-DV Tái Định Cư, Phường Thới Hoà, thị xã Bến Cát, Bình Dương",CCG_432
+Bình Dương,Thành Phố Dĩ An,Phường An Bình,106.75633,10.8695,"119-121 đường An Bình, phường An Bình, thị xã Dĩ An, tỉnh Bình Dương",CCG_433
+Bình Dương,Thành Phố Dĩ An,Phường An Bình,106.75986,10.88497,"Nguyễn Tri Phương, khu phố Bình Đường 4, phường An Bình, thị xã Dĩ An, Bình Dương (closed)",CCG_434
+Bình Dương,Thành Phố Dĩ An,Phường Dĩ An,106.7681459,10.9058758,"283 Nguyễn An Ninh, P. Dĩ An, Thị xã Dĩ An, Bình Dương",CCG_435
+Bình Dương,Thành Phố Dĩ An,Phường Dĩ An,106.7581,10.90708,"27/20A Nguyễn Trãi, Khu phố Thống Nhất, p. Dĩ An, Tx. Dĩ An, Bình Dương",CCG_436
+Bình Dương,Thành Phố Dĩ An,Phường Dĩ An,106.7670528,10.8966173,"1 Ngô Thì Nhậm, Phường Dĩ An, Thị xã Dĩ An, Tỉnh Bình Dương",CCG_437
+Bình Dương,Thành Phố Dĩ An,Phường Dĩ An,106.7530321,10.916425,"130 Nguyễn Thị Minh Khai, Khu phố Tân Long, phường Tân Đông Hiệp, Thành phố Dĩ An, Bình Dương",CCG_438
+Bình Dương,Thành Phố Dĩ An,Phường Đông Hòa,106.77658,10.888364,"44 Quốc Lộ 1K, phường Đông Hoà, Thành phố Dĩ An, Bình Dương",CCG_439
+Bình Dương,Thành Phố Dĩ An,Phường Tân Đông Hiệp,106.7605328,10.9274401,"533/12B Khu phố Đông Thành, Phường Tân Đông Hiệp, Thành phố Dĩ An, Tỉnh Bình Dương",CCG_440
+Bình Dương,Thành Phố Dĩ An,Phường Tân Đông Hiệp,106.768527,10.916084," 2 Lê Hồng Phong, Khu Phố Đông Thành, Phường Tân Đông Hiệp, Thành Phố Dĩ An, Tỉnh Bình Dương",CCG_441
+Bình Dương,Thành Phố Dĩ An,Phường Tân Đông Hiệp,106.78199809045,10.911202158629,"TDH.2, đường D1, KP Đông An, phường Tân Đông Hiệp, Thị xã Dĩ An, Bình Dương",CCG_442
+Bình Dương,Thành Phố Tân Uyên,Xã Hội Nghĩa,106.771863,11.096952,"chợ Quang Vinh 3, Đường DT747, Tổ 1, Khu phố 1, phường Hội Nghĩa, Thị xã Tân Uyên, Bình Dương",CCG_443
+Bình Dương,Thành Phố Tân Uyên,Xã Phú Chánh,106.697591,11.07052,"Đường DT742, Tổ 1, Khu phố Phú Trung, phường Phú Chánh, Thị xã Tân Uyên, Bình Dương",CCG_444
+Bình Dương,Thành Phố Tân Uyên,Phường Tân Phước Khánh,106.72035,11.00529,"Số 26 tổ 2, đường ĐT746, Kp Khánh Thạnh, P. Tân Phước Khánh, Tân Uyên, Bình Dương",CCG_445
+Bình Dương,Thành Phố Tân Uyên,Phường Thái Hòa,106.75762,10.97631,"1111B, ấp Vĩnh Phước, Tổ 11, xã Thái Hòa, Tân Uyên, Bình Dương",CCG_446
+Bình Dương,Thành Phố Tân Uyên,Xã Vĩnh Tân,106.704361,11.119949,"Đường DB4, Khu phố 4, phường Vĩnh Tân, Thị xã Tân Uyên, Bình Dương",CCG_447
+Bình Dương,Thành Phố Thuận An,Phường An Phú,106.742032,10.946306,"31/1,  Khu Phố 1A, Phường An Phú, Thành Phố Thuận An, Tỉnh Bình Dương",CCG_448
+Bình Dương,Thành Phố Thuận An,Phường An Phú,106.7081002,10.9872124,"30/2 đường ĐT 743, KP Bình Quới A, P Bình Chuẩn, Thị xã Thuận An, Bình Dương",CCG_449
+Bình Dương,Thành Phố Thuận An,Phường An Phú,106.728524,10.941955," Số 06-07-08, Lô DC37, Đường D33, KDC Việt Sing, Phường An Phú, Thành phố Thuận An, Tỉnh Bình Dương",CCG_450
+Bình Dương,Thành Phố Thuận An,Phường An Thạnh,106.67991422117,10.951457145354,"Số 165/3, Khu phố Thạnh Lợi, phường An Thạnh, Thành phố Thuận An, Bình Dương",CCG_451
+Bình Dương,Thành Phố Thuận An,Phường An Thạnh,106.68917220086,10.94699883003,"Cách Mạng Tháng Tám, Khu phố Thạnh Lợi, phường An Thạnh, Thành phố Thuận An, Bình Dương",CCG_452
+Bình Dương,Thành Phố Thuận An,Phường Bình Chuẩn,106.72191,10.98425,"10/2 đường Phú Lợi (DT743), khu phố Bình Phú, phường Bình Chuẩn, thị xã Thuận An, tỉnh Bình Dương (closed)",CCG_453
+Bình Dương,Thành Phố Thuận An,Phường Bình Chuẩn,106.741054,10.97755,"67/13 đường DT743, Khu phố Bình Phước B, Phường Bình Chuẩn, Thị xã Thuận An, Tỉnh Bình Dương",CCG_454
+Bình Dương,Thành Phố Thuận An,Phường Bình Chuẩn,106.720843,10.981155," 4/4 Thủ Khoa Huân, Khu phố Bình Phước A, phường Bình Chuẩn, Thành phố Thuận An, Bình Dương",CCG_455
+Bình Dương,Thành Phố Thuận An,Phường Bình Hòa,106.7339265,10.9212928,"14 Nguyễn Du, Phường Bình Hòa, Thành Phố Thuận An, Tỉnh Bình Dương",CCG_456
+Bình Dương,Thành Phố Thuận An,Phường Bình Hòa,106.7287497,10.9051156,"2/23 Ấp Bình Đức, Xã Bình Hoà, Thị xã Thuận An, Tỉnh Bình Dương (closed)",CCG_457
+Bình Dương,Thành Phố Thuận An,Phường Bình Hòa,106.740426,10.908851,"Số 01 Lô A, Ấp Bình Đức 3, Phường Bình Hoà, Thành phố Thuận An, Bình Dương (closed)",CCG_458
+Bình Dương,Thành Phố Thuận An,Phường Lái Thiêu,106.70033,10.90398,"1 Pasteur, phường Lái Thiêu, Tx. Thuận An, Bình Dương",CCG_459
+Bình Dương,Thành Phố Thuận An,Phường Lái Thiêu,106.70105,10.9076,"60 Nguyễn Văn Tiết, Phường Lái Thiêu, thị xã Thuận An, tỉnh Bình Dương",CCG_460
+Bình Dương,Thành Phố Thuận An,Phường Thuận Giao,106.71742,10.96066,"E3/1 Khu phố Bình Thuận 2, Khu Dân Cư Thuận Giao, P.Thuận Giao, Tx.Thuận An, Tỉnh Bình Dương",CCG_461
+Bình Dương,Thành Phố Thuận An,Phường Thuận Giao,106.7186,10.94846,"1/183 đường 22/12, phường Thuận Giao, thị xã Thuận An, Tỉnh Bình Dương (closed)",CCG_462
+Bình Dương,Thành Phố Thuận An,Phường Thuận Giao,106.718744,10.940507,"25–27, Lô DC79, đường DA6, KDC Việt - Sing, phường Thuận Giao, Thành phố Thuận An, Bình Dương",CCG_463
+Bình Dương,Thành Phố Thủ Dầu Một,Phường Chánh Mỹ,106.669584,10.999393,"107 đường Số 8, Khu Dân Cư Hiệp Thành 3, Thành phố Thủ Dầu Một, Tỉnh Bình Dương.",CCG_464
+Bình Dương,Thành Phố Thủ Dầu Một,Phường Chánh Mỹ,106.6507995,10.9918708,"182 Cách Mạng Tháng 8, Chánh Mỹ, Thủ Dầu Một, Bình Dương",CCG_465
+Bình Dương,Thành Phố Thủ Dầu Một,Phường Hiệp Thành,106.6554639,10.9926464,"5 Huỳnh Văn Cù, Phường Hiệp Thành, TP. Thủ Dầu Một, Bình Dương (closed)",CCG_466
+Bình Dương,Thành Phố Thủ Dầu Một,Phường Hòa Phú,106.69298,11.075765,"Chợ Phú Chánh A, Phạm Văn Đồng, Khu Tái Định Cư Phú Chánh, Phường Hòa Phú, Thành phố Thủ Dầu Một, Bình Dương ",CCG_467
+Bình Dương,Thành Phố Thủ Dầu Một,Phường Phú Cường,106.66507721,10.98369965,"13 Yersin, Tổ 15, Khu phố 1, P. Phú Cường, TP. Thủ Dầu Một, Tỉnh Bình Dương",CCG_468
+Bình Dương,Thành Phố Thủ Dầu Một,Phường Phú Cường,106.6583298,10.9750882,"626 Cách Mạng Tháng Tám, Phú Cường, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",CCG_469
+Bình Dương,Thành Phố Thủ Dầu Một,Phường Phú Cường,106.6525143,10.9836878,"416 Cách Mạng Tháng Tám, Phường Phú Cường, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",CCG_470
+Bình Dương,Thành Phố Thủ Dầu Một,Phường Phú Hòa,106.67138,10.98178,"1/2 đường Phú Lợi, phường Phú Hòa, Thành phố Thủ Dầu Một, Tỉnh Bình Dương (closed)",CCG_471
+Bình Dương,Thành Phố Thủ Dầu Một,Phường Phú Hòa,106.66831,10.97877,"272 Đại Lộ Bình Dương, phường Phú Hòa , Thành Phố Thủ Dầu Một, Tỉnh Bình Dương",CCG_472
+Bình Dương,Thành Phố Thủ Dầu Một,Phường Phú Lợi,106.6874049,10.9866646,"511 Phú Lợi, Khu Phố 8, Phường Phú Lợi, Thành Phố Thủ Dầu Một, Tỉnh Bình Dương (closed)",CCG_473
+Bình Dương,Thành Phố Thủ Dầu Một,Phường Phú Thọ,106.680776345,10.9664303,"81 Đại lộ Bình Dương, Phường Phú Thọ, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",CCG_474
+Bình Dương,Huyện Bàu Bàng,Thị Trấn Lai Uyên,106.6353089,11.2430901," 01 đường NC, Khu phố Đồng Sổ, Thị trấn Lai Uyên, huyện Bàu Bàng, Bình Dương",CCG_475
+Bình Dương,Huyện Phú Giáo,Xã Phước Hòa,106.735237,11.235596,"Ngã Tư Bến Trám, DT 741, Ấp 1B, xã Phước Hoà, huyện Phú Giáo, tỉnh Bình Dương",CCG_476
+Bình Dương,Huyện Phú Giáo,Thị Trấn Phước Vĩnh,106.79221,11.28945,"39 Độc Lập, Kp1, Thị trấn Phước Vĩnh, huyện Phú Giáo, Bình Dương",CCG_477
+Bình Dương,Huyện Dầu Tiếng,Xã An Lập,106.3596229,11.2761666," 03-05 Tự Do, Khu phố 2, Thị Trấn Dầu Tiếng, huyện Dầu Tiếng, Bình Dương",CCG_478
+Bình Dương,Huyện Bắc Tân Uyên,Xã Tân Bình,106.7235294,11.1846107,"Số 12, Đường DT741, Khu Phố 3, Thị trấn Tân Bình, huyện Bắc Tân Uyên, Bình Dương",CCG_479
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường An Phú,106.7498555,10.7853088," 186 Đường số 51, phường An Phú, Thành phố Thủ Đức, Thành Phố Hồ Chí Minh",CCG_480
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Tam Phú,106.7442,10.86212,"487 Tô Ngọc Vân, Khu Phố 1, Phường Tam Phú, Quận Thủ Đức, Thành phố Hồ Chí Minh",CCG_481
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Tam Phú,106.7489147,10.8537167,"213 Linh Đông, phường Linh Đông, Thành phố Thủ Đức, Thành Phố Hồ Chí Minh.",CCG_482
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Cát Lái,106.76976989955,10.774124117496,"705 Nguyễn Thị Định, Khu phố 2, phường Cát Lái, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",CCG_483
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Linh Tây,106.75473631,10.85328996,"753 Kha Vạn Cân, Phường Linh Tây, Quận Thủ Đức, TP. HCM",CCG_484
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Tam Bình,106.738982,10.866176,"619 Tô Ngọc Vân, Khu phố 4, phường Tam Bình, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",CCG_485
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Tân Phú,106.81155,10.84975,"655 Lê Văn Việt, Khu Phố 6, phường Tân Phú, Quận 9, Thành phố Hồ Chí Minh",CCG_486
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Tân Phú,106.8054166,10.8678377,"21 Đường 154, phường Tân Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",CCG_487
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Linh Xuân,106.76842,10.881,"127 Quốc Lộ 1K, Phường Linh Xuân, Quận Thủ Đức, Tp.Hồ Chí Minh  (closed)",CCG_488
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Linh Xuân,106.775109,10.878896,"83 Đường số 8, Khu phố 1, phường Linh Xuân, Thành phố Thủ Đức, Thành Phố Hồ Chí Minh",CCG_489
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Linh Đông,106.75099,10.84666,"734 Kha Vạn Cân, Khu phố 5, P. Linh Đông, Quận Thủ Đức, Hồ Chí Minh (closed)",CCG_490
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Linh Đông,106.7440184,10.840737," 582 Kha Vạn Cân, Khu phố 8, phường Linh Đông, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",CCG_491
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Bình Chiểu,106.72908,10.88273,"1069 Tỉnh Lộ 43, Khu Phố 2, Phường Bình Chiểu, Quận Thủ Đức, Thành phố Hồ Chí Minh",CCG_492
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Bình Chiểu,106.7332332,10.8722571,"742 -744 Tỉnh lộ 43, Khu phố 3, phường Bình Chiểu, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",CCG_493
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Phước Long B,106.7755345,10.8313568,"159 Tăng Nhơn Phú (số nhà cũ 87), Khu phố 3, phường Phước Long B, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",CCG_494
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Trường Thọ,106.760932,10.846825,"158 Đặng Văn Bi, Khu phố 1, phường Bình Thọ, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",CCG_495
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Trường Thọ,106.7549082,10.8348818,"56A Đường số 2, Khu phố 8, phường Trường Thọ, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",CCG_496
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Tăng Nhơn Phú A,106.7985957,10.8467687,"597 Lê Văn Việt, Khu phố 5, phường Tăng Nhơn Phú A, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",CCG_497
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Tăng Nhơn Phú A,106.790795,10.847676,"41 Đường 385, Khu phố 6, phường Tăng Nhơn Phú A, Thành phố Thủ Đức, Thành phố Hồ Chí Minh  (closed)",CCG_498
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Tăng Nhơn Phú B,106.781648,10.84426,"172 Lê Văn Việt, Tăng Nhơn Phú B, Quận 9, Hồ Chí Minh",CCG_499
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Hiệp Bình Chánh,106.7219176,10.828425,"744 Đường Phạm Văn Đồng, Phường Hiệp Bình Chánh, Quận Thủ Đức, Thành phố Hồ Chí Minh",CCG_500
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Hiệp Bình Chánh,106.7312164,10.8423538,"79A - 81 đường Hiệp Bình, Khu phố 7, phường Hiệp Bình Chánh, Quận Thủ Đức, Thành phố Hồ Chí Minh",CCG_501
+Hồ Chí Minh,Thành Phố Thủ Đức,Phường Hiệp Bình Phước,106.7140254,10.8359477,"416 Quốc lộ 13, Khu phố 6, Phường Hiệp Bình Phước, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",CCG_502
+Hồ Chí Minh,Quận 1,Phường Bến Nghé,106.704379,10.777287," 62 Hai Bà Trưng, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh (closed)",CCG_503
+Hồ Chí Minh,Quận 1,Phường Bến Nghé,106.7011184,10.7810793,"66 Nguyễn Du, phường Bến Nghé, quận 1, Thành phố Hồ Chí Minh",CCG_504
+Hồ Chí Minh,Quận 1,Phường Bến Thành,106.68871,10.76999,"78 Tôn Thất Tùng, Phường Bến Thành, Quận 1, Thành Phố Hồ Chí Minh (closed)",CCG_505
+Hồ Chí Minh,Quận 1,Phường Bến Thành,106.693036,10.7709291,"9-11-13 Nguyễn Trãi, phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh",CCG_506
+Hồ Chí Minh,Quận 1,Phường Đa Kao,106.700248,10.791373,"93 Nguyễn Bỉnh Khiêm, Phường Đa Kao, Quận 1, Thành phố Hồ Chí Minh",CCG_507
+Hồ Chí Minh,Quận 1,Phường Nguyễn Cư Trinh,106.685363,10.767714,"223B Cống Quỳnh, Phường Nguyễn Cư Trinh, Quận 1, Thành phố Hồ Chí Minh",CCG_508
+Hồ Chí Minh,Quận 1,Phường Tân Định,106.6927232,10.7921179,"101 Trần Quang Khải, Phường Tân Định, Quận 1, TP.HCM",CCG_509
+Hồ Chí Minh,Quận 2,Phường An Phú,106.754177,10.790399,"14C Nguyễn Thị Định, P.An Phú, Quận 2, TP Hồ Chí Minh",CCG_510
+Hồ Chí Minh,Quận 2,Phường Bình An,106.7312406,10.7971416,"38 Trần Não, Phường Bình An, Quận 2, TP.Hồ Chi Minh",CCG_511
+Hồ Chí Minh,Quận 2,Phường Bình An,106.7303467,10.79032803,"165 Trần Não, Khu Phố 3, Phường  Bình An, Quận 2, Thành phố Hồ Chí Minh",CCG_512
+Hồ Chí Minh,Quận 2,Phường Bình Trưng Đông,106.773451,10.788223,"595 Nguyễn Duy Trinh, Bình Trưng Đông, Quận 2, Tp.Hồ Chí Minh",CCG_513
+Hồ Chí Minh,Quận 2,Phường Bình Trưng Tây,106.75872,10.78842,"121A Nguyễn Duy Trinh, Khu Phố 1, Phường Bình Trưng Tây, Quận 2, Thành Phố Hồ Chí Minh",CCG_514
+Hồ Chí Minh,Quận 2,Phường Thảo Điền,106.7308,10.80741,"77 Quốc Hương, phường Thảo Điền, Quận 2, Thành phố Hồ Chí Minh",CCG_515
+Hồ Chí Minh,Quận 3,Phường 11,106.6694264,10.7844925,"460 - 462 Cách Mạng Tháng 8, Phường 11, Quận 3, Thành phố Hồ Chí Minh",CCG_516
+Hồ Chí Minh,Quận 3,Phường 14,106.6768188,10.78840923,"396 Lê Văn Sỹ, Phường 14, Quận 3, Thành phố Hồ Chí Minh",CCG_517
+Hồ Chí Minh,Quận 3,Phường 2,106.681936,10.7659346,"510 Nguyễn Thị Minh Khai, Phường 2, Quận 3, Thành phố Hồ Chí Minh",CCG_518
+Hồ Chí Minh,Quận 3,Phường 5,106.685767,10.7701365,"424A Nguyễn Thị Minh Khai, P.5, Quận 3, Tp.HCM",CCG_519
+Hồ Chí Minh,Quận 4,Phường 6,106.6990793,10.7599024,"317 Hoàng Diệu P.6, Q.4, TP HCM",CCG_520
+Hồ Chí Minh,Quận 5,Phường 11,106.66183,10.75494,"245 - 247 Hồng Bàng, Phường 11, Quận 5, Thành phố Hồ Chí Minh",CCG_521
+Hồ Chí Minh,Quận 5,Phường 11,106.658992,10.7529073,"94 Châu Văn Liêm, Phường 11, Quận 5, Thành phố Hồ Chí Minh",CCG_522
+Hồ Chí Minh,Quận 5,Phường 12,106.6618879,10.7577113,"9 Tăng Bạt Hổ, Phường 12, Quận 5, Thành phố Hồ Chí Minh",CCG_523
+Hồ Chí Minh,Quận 5,Phường 2,106.6844401,10.7564868,"386 Trần Hưng Đạo, Phường 2, Quận 5, Thành phố Hồ Chí Minh",CCG_524
+Hồ Chí Minh,Quận 5,Phường 8,106.671195,10.7568457,"77-79 An Dương Vương, Phường 8, Quận 5, Thành phố Hồ Chí Minh",CCG_525
+Hồ Chí Minh,Quận 6,Phường 10,106.631742,10.738347,"43V Đường Cư Xá Phú Lâm D, Phường 10, Quận 6, Thành phố Hồ Chí Minh",CCG_526
+Hồ Chí Minh,Quận 6,Phường 11,106.6352768,10.7479763," 553 Hậu Giang, P.11, Quận 6, Tp.Hồ Chí Minh",CCG_527
+Hồ Chí Minh,Quận 6,Phường 11,106.62888,10.74664,"879 Hậu Giang, Phường 11, Quận 6, Hồ Chí Minh (closed)",CCG_528
+Hồ Chí Minh,Quận 6,Phường 2,106.65038,10.75141,"37A Nguyễn Thị Nhỏ, Phường 2, Quận 6, Thành phố Hồ Chí Minh",CCG_529
+Hồ Chí Minh,Quận 6,Phường 4,106.64846,10.74594,"107 Mai Xuân Thưởng, Phường 4, Quận 6, Thành phố Hồ Chí Minh",CCG_530
+Hồ Chí Minh,Quận 7,Phường Bình Thuận,106.7281,10.73768,"28-30-32-34 Nguyễn Thị Thập, Phường Bình Thuận, Quận 7, Thành phố. Hồ Chí Minh",CCG_531
+Hồ Chí Minh,Quận 7,Phường Bình Thuận,106.71589,10.74453,"175 Lâm Văn Bền, khu phố 6, phường Bình Thuận, Quận 7, Thành phố Hồ Chí Minh",CCG_532
+Hồ Chí Minh,Quận 7,Phường Phú Mỹ,106.737413,10.707139,"1649 Huỳnh Tấn Phát, Phú Mỹ, Quận 7, Tp.Hồ Chí Minh",CCG_533
+Hồ Chí Minh,Quận 7,Phường Phú Mỹ,106.73215,10.70461,"130 Phạm Hữu Lầu, Phường Phú Mỹ, Quận 7, Thành phố Hồ Chí Minh",CCG_534
+Hồ Chí Minh,Quận 7,Phường Phú Thuận,106.733927,10.725705,"964 Huỳnh Tấn Phát, phường Phú Thuận, Quận 7, Thành phố Hồ Chí Minh",CCG_535
+Hồ Chí Minh,Quận 7,Phường Tân Hưng,106.7036642,10.7409687,"326 Lê Văn Lương, Phường Tân Hưng, Quận 7, TP.HCM",CCG_536
+Hồ Chí Minh,Quận 7,Phường Tân Kiểng,106.70669339597,10.745589148279,"98 Đường số 15, khu phố 2, phường Tân Kiểng, Quận 7, Thành phố Hồ Chí Minh",CCG_537
+Hồ Chí Minh,Quận 7,Phường Tân Phong,106.7119,10.72174,"Grand View PMH, Nguyễn Đức Cảnh, P.Tân Phong, Q.7, Tp.HCM",CCG_538
+Hồ Chí Minh,Quận 7,Phường Tân Phú,106.71861,10.73516,"Tầng 1 Lô C Chung cư Tân Mỹ, Phường Tân Phú, Quận 7, TP.HCM",CCG_539
+Hồ Chí Minh,Quận 7,Phường Tân Thuận Tây,106.7285558,10.7513576,"304-306 Huỳnh Tấn Phát, P. Tân Thuận Tây, Quận 7, Thành phố Hồ Chí Minh",CCG_540
+Hồ Chí Minh,Quận 8,Phường 13,106.655871,10.744392,"2 Tuy Lý Vương, Phường 13, Quận 8, Thành phố Hồ Chí Minh",CCG_541
+Hồ Chí Minh,Quận 8,Phường 16,106.6204532,10.725829,"48A An Dương Vương, Phường 16, Quận 8, Thành phố Hồ Chí Minh",CCG_542
+Hồ Chí Minh,Quận 8,Phường 16,106.61583423615,10.714904262062,"54 Hồ Học Lãm, Phường 16, Quận 8, Thành phố Hồ Chí Minh",CCG_543
+Hồ Chí Minh,Quận 8,Phường 2,106.688791,10.746902,"182 Dương Bá Trạc, Phường 2, Quận 8, Thành phố Hồ Chí Minh",CCG_544
+Hồ Chí Minh,Quận 8,Phường 4,106.6725,10.74367,"871 Phạm Thế Hiển, Phường 4, Quận 8, Thành phố Hồ Chí Minh",CCG_545
+Hồ Chí Minh,Quận 8,Phường 5,106.6581101,10.7414247,"350 Phạm Thế Hiển, Phường 5, Quận 8, Thành phố Hồ Chí Minh",CCG_546
+Hồ Chí Minh,Quận 9,Phường Long Thạnh Mỹ,106.82875,10.84281,"657 Nguyễn Xiển, Phường Long Thạnh Mỹ, Quận 9, Tp. Hồ Chí Minh",CCG_547
+Hồ Chí Minh,Quận 9,Phường Long Trường,106.81495,10.80416,"1187 Nguyễn Duy Trinh, P. Long Trường, Quận 9, TP Hồ Chí Minh",CCG_548
+Hồ Chí Minh,Quận 9,Phường Phước Long A,106.768483,10.828873,"178 Đỗ Xuân Hợp , Phước Long A, Quận 9, Tp.HCM",CCG_549
+Hồ Chí Minh,Quận 9,Phường Phước Long B,106.7717361,10.82160282,"345B Đỗ Xuân Hợp, Phước Long B, Quận 9, TP.HCM",CCG_550
+Hồ Chí Minh,Quận 9,Phường Trường Thạnh,106.821815,10.806219," Số 1463 - 1465 Nguyễn Duy Trinh, Khu Phố Phước Lai, Phường Trường Thạnh, Quận 9, TP. Hồ Chí Minh",CCG_551
+Hồ Chí Minh,Quận 10,Phường 12,106.678898,10.779254,"291 Cách Mạng Tháng 8, Phường 12, Quận 10, TP. HCM",CCG_552
+Hồ Chí Minh,Quận 10,Phường 12,106.67286789,10.77095239,"703 Lê Hồng Phong (Ngã tư 3/2), Phường 12, Quận 10, TP. HCM",CCG_553
+Hồ Chí Minh,Quận 10,Phường 12,106.6637864,10.7764052,"218 Thành Thái, Phường 12, Quận 10, Thành phố Hồ Chí Minh",CCG_554
+Hồ Chí Minh,Quận 10,Phường 4,106.67076,10.76263,"338 Ngô Gia Tự, Phường 4, Quận 10, Hồ Chí Minh",CCG_555
+Hồ Chí Minh,Quận 10,Phường 7,106.6604233,10.7636758,"140 Lý Thường Kiệt, Phường 7, Quận 10, Thành phố Hồ Chí Minh",CCG_556
+Hồ Chí Minh,Quận 10,Phường 9,106.66963,10.76783,"391 Lý Thái Tổ, phường 9, Quận 10, Hồ Chí Minh",CCG_557
+Hồ Chí Minh,Quận 11,Phường 10,106.643874,10.759024,"383C Minh Phụng, Phường 10, Quận 11, Thành phố Hồ Chí Minh",CCG_558
+Hồ Chí Minh,Quận 11,Phường 4,106.65834,10.75784,"77-79 Thuận Kiều, Phường 4, Quận 11, TPHCM (closed)",CCG_559
+Hồ Chí Minh,Quận 11,Phường 6,106.653555,10.759942,"174 Tạ Uyên, Phường 6, Quận 11, Thành phố Hồ Chí Minh",CCG_560
+Hồ Chí Minh,Quận 12,Phường An Phú Đông,106.691902,10.859594,"2167/1B đường Vườn Lài, Khu phố 1, phường An Phú Đông, Quận 12, Thành phố Hồ Chí Minh",CCG_561
+Hồ Chí Minh,Quận 12,Phường Đông Hưng Thuận,106.6367447,10.8500969,"972-974-976 Nguyễn Văn Quá, Đông Hưng Thuận, Quận 12, Hồ Chí Minh",CCG_562
+Hồ Chí Minh,Quận 12,Phường Đông Hưng Thuận,106.627298,10.834592,"74 Đông Hưng Thuận 2, phường Đông Hưng Thuận, Quận 12, Thành Phố Hồ Chí Minh",CCG_563
+Hồ Chí Minh,Quận 12,Phường Đông Hưng Thuận,106.631241,10.843814,"B148Bis Nguyễn Văn Quá, Khu phố 3, phường Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh",CCG_564
+Hồ Chí Minh,Quận 12,Phường Hiệp Thành,106.6425095,10.87705898," 43A Nguyễn Ảnh Thủ, Khu phố 2, Phường Hiệp Thành, Quận 12,Thành phố Hồ Chí Minh",CCG_565
+Hồ Chí Minh,Quận 12,Phường Tân Chánh Hiệp,106.6157913,10.867239,"12/6 Tô Ký, P.Tân Chánh Hiệp, Q.12, Tp.Hồ Chí Minh",CCG_566
+Hồ Chí Minh,Quận 12,Phường Tân Chánh Hiệp,106.62152,10.87338,"911A-911B Nguyễn Ảnh Thủ, khu phố 8, phường Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh",CCG_567
+Hồ Chí Minh,Quận 12,Phường Tân Hưng Thuận,106.61588,10.84249,"6C-10bis Trường Chinh, phường Tân Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh",CCG_568
+Hồ Chí Minh,Quận 12,Phường Tân Thới Hiệp,106.6402543,10.8631658,"257 Nguyễn Thị Đặng (số cũ 257 TTH22), Khu Phố 2, phường Tân Thới Hiệp, Quận 12, Thành phố Hồ Chí Minh",CCG_569
+Hồ Chí Minh,Quận 12,Phường Tân Thới Nhất,106.6082,10.83379,"17/15A Phan Văn Hớn, Khu phố 6, Phường Tân Thới Nhất, Quận 12, thành phố Hồ Chí Minh",CCG_570
+Hồ Chí Minh,Quận 12,Phường Thạnh Lộc,106.685668,10.867655," 71 Thạnh Lộc 16, phường Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh",CCG_571
+Hồ Chí Minh,Quận 12,Phường Thạnh Xuân,106.68601,10.89116,"829 - 829A Hà Huy Giáp, phường Thạnh Xuân, quận 12, Tp.Hồ Chí Minh",CCG_572
+Hồ Chí Minh,Quận 12,Phường Thạnh Xuân,106.688997,10.896476,"91/4B Hà Huy Giáp, Khu phố 3, phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh",CCG_573
+Hồ Chí Minh,Quận 12,Phường Thới An,106.6494141,10.87247086,"107/1 Lê Văn Khương, phường Thới An, Quận 12,Thành phố Hồ Chí Minh",CCG_574
+Hồ Chí Minh,Quận Gò Vấp,Phường 1,106.69062,10.81885,"141 Nguyên Hồng, Phường 1, Quận Gò Vấp, Thành Phố Hồ Chí Minh",CCG_575
+Hồ Chí Minh,Quận Gò Vấp,Phường 11,106.65716,10.84287,"204 - 206 Lê Văn Thọ, Phường 11, Quận Gò Vấp, thành phố Hồ Chí Minh",CCG_576
+Hồ Chí Minh,Quận Gò Vấp,Phường 12,106.649511,10.848993,"44/1D Phạm Văn Chiêu, Phường 12, Q.Gò Vấp, Tp.Hồ Chí Minh",CCG_577
+Hồ Chí Minh,Quận Gò Vấp,Phường 14,106.6375122,10.84012794,"329 Phan Huy Ích, P.14, Quận Gò Vấp, Tp.HCM",CCG_578
+Hồ Chí Minh,Quận Gò Vấp,Phường 15,106.67126,10.84599,"668 Lê Đức Thọ, Phường 15, Quận Gò Vấp, thành phố Hồ Chí Minh",CCG_579
+Hồ Chí Minh,Quận Gò Vấp,Phường 16,106.66553,10.83884,"3/1A Nguyễn Văn Lượng, Phường 16, Quận Gò Vấp, Thành phố Hồ Chí Minh",CCG_580
+Hồ Chí Minh,Quận Gò Vấp,Phường 17,106.675935,10.8395377,"310 Nguyễn Oanh, Phường 17, Q. Gò Vấp,Tp.HCM",CCG_581
+Hồ Chí Minh,Quận Gò Vấp,Phường 5,106.6868968,10.8244837,"37 Trần Phú Cương, Phường 5, Quận Gò Vấp, Thành Phố Hồ Chí Minh",CCG_582
+Hồ Chí Minh,Quận Gò Vấp,Phường 7,106.6845335,10.8284409,"783 Phan Văn Trị, Phường 7, quận Gò Vấp, Thành phố Hồ Chí Minh",CCG_583
+Hồ Chí Minh,Quận Gò Vấp,Phường 7,106.685204,10.83301,"C38 Dương Quảng Hàm, Phường 7, quận Gò Vấp, Thành phố Hồ Chí Minh",CCG_584
+Hồ Chí Minh,Quận Tân Phú,Phường Hiệp Tân,106.6305161,10.77069378,"182D Hòa Bình, P.Hiệp Tân, Q.Tân Phú, Thành phố Hồ Chí Minh",CCG_585
+Hồ Chí Minh,Quận Tân Phú,Phường Hiệp Tân,106.62787,10.77705,"311A Thoại Ngọc Hầu, phường Hiệp Tân, quận Tân Phú, Thành phố Hồ Chí Minh",CCG_586
+Hồ Chí Minh,Quận Tân Phú,Phường Hòa Thạnh,106.63589,10.78048,"484 Lũy Bán Bích, phường Hòa Thạnh, quận Tân Phú, Tp.Hồ Chí Minh",CCG_587
+Hồ Chí Minh,Quận Tân Phú,Phường Phú Thạnh,106.630499,10.781427,"65 Nguyễn Sơn,P.Phú Thạnh, Quận Tân Phú, Hồ Chí Minh (closed)",CCG_588
+Hồ Chí Minh,Quận Tân Phú,Phường Phú Thạnh,106.622617,10.784006,"307 Nguyễn Sơn, phường Phú Thạnh, quận Tân Phú, Thành phố Hồ Chí Minh",CCG_589
+Hồ Chí Minh,Quận Tân Phú,Phường Phú Thạnh,106.620311,10.780506,"212-214A Bình Long, Phường Phú Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh",CCG_590
+Hồ Chí Minh,Quận Tân Phú,Phường Phú Thọ Hòa,106.633297,10.787629,"85-87 Vườn Lài, phường Phú Thọ Hòa, Quận Tân Phú, Thành phố Hồ Chí Minh",CCG_591
+Hồ Chí Minh,Quận Tân Phú,Phường Phú Trung,106.647479,10.775375,"285 Âu Cơ, Phường Phú Trung, Quận Tân Phú, Thành Phố Hồ Chí Minh",CCG_592
+Hồ Chí Minh,Quận Tân Phú,Phường Sơn Kỳ,106.6281662,10.80597401,"129-131 Lê Trọng Tấn, P.Sơn Kỳ, Q.Tân Phú, Hồ Chí Minh",CCG_593
+Hồ Chí Minh,Quận Tân Phú,Phường Sơn Kỳ,106.6179,10.80191,"Aeon Mall Tân Phú - 30 Bờ Bao Tân Thắng, phường Sơn Kỳ, quận Tân Phú, Thành phố Hồ Chí Minh",CCG_594
+Hồ Chí Minh,Quận Tân Phú,Phường Tân Quý,106.62256,10.78993,"213 - 215 Tân Hương, phường Tân Quý, quận Tân Phú, Tp Hồ Chí Minh",CCG_595
+Hồ Chí Minh,Quận Tân Phú,Phường Tân Quý,106.6287571,10.7928509,"179 Độc Lập, Phường Tân Quý, Quận Tân Phú, Hồ Chí Minh",CCG_596
+Hồ Chí Minh,Quận Tân Phú,Phường Tân Quý,106.621916,10.795918,"176 Gò Dầu, phường Tân Quý, quận Tân Phú, Thành phố Hồ Chí Minh",CCG_597
+Hồ Chí Minh,Quận Tân Phú,Phường Tân Sơn Nhì,106.632734,10.803456,"121 - 135/1 Tân Kỳ Tân Quý, phường Tân Sơn Nhì, quận Tân Phú, Thành phố Hồ Chí Minh",CCG_598
+Hồ Chí Minh,Quận Tân Phú,Phường Tân Thành,106.6385,10.79503,"827 Âu Cơ, Phường Tân Thành, Quận Tân Phú, TPHCM",CCG_599
+Hồ Chí Minh,Quận Tân Phú,Phường Tân Thới Hòa,106.63518,10.76952,"43D Hoà Bình, phường Tân Thới Hoà, quận Tân Phú, Thành phố Hồ Chí Minh",CCG_600
+Hồ Chí Minh,Quận Tân Phú,Phường Tây Thạnh,106.6255006,10.8159614,"85-87 Tây Thạnh, phường Tây Thạnh, quận Tân Phú, Thành phố Hồ Chí Minh",CCG_601
+Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,106.60411,10.77652,"392 Lê Văn Quới, Phường 11, Quận Bình Tân, Thành phố Hồ Chí Minh (closed)",CCG_602
+Hồ Chí Minh,Quận Bình Tân,Phường An Lạc,106.6075473,10.7278479,"470 Hồ Học Lãm, Khu phố 3, Phường An Lạc, Quận Bình Tân, Thành phố Hồ Chí Minh",CCG_603
+Hồ Chí Minh,Quận Bình Tân,Phường An Lạc A,106.62309,10.74541,"202 Kinh Dương Vương, Khu Phố 4, Phường An Lạc A, Quận Bình Tân, Hồ Chí Minh",CCG_604
+Hồ Chí Minh,Quận Bình Tân,Phường An Lạc A,106.621393,10.748211,"15-17-19 Đường số 1, Khu Phố 4, phường An Lạc A, quận Bình Tân, Thành phố Hồ Chí Minh",CCG_605
+Hồ Chí Minh,Quận Bình Tân,Phường Bình Hưng Hòa,106.60301,10.81572,"755 Lê Trọng Tấn, phường Bình Hưng Hòa, quận Bình Tân, Tp Hồ Chí Minh",CCG_606
+Hồ Chí Minh,Quận Bình Tân,Phường Bình Hưng Hòa,106.6084146,10.8056402,"659 Hương lộ 3, Khu phố 10, phường Bình Hưng Hòa, quận Bình Tân, Thành phố Hồ Chí Minh",CCG_607
+Hồ Chí Minh,Quận Bình Tân,Phường Bình Hưng Hòa A,106.6048798,10.7876846,"232A - 232B Gò Xoài, Khu phố 3, Phường Bình Hưng Hòa A, Quận Bình Tân, Thành phố Hồ Chí Minh",CCG_608
+Hồ Chí Minh,Quận Bình Tân,Phường Bình Hưng Hòa A,106.60006,10.77973,"406C Mã Lò, P.Bình Hưng Hòa A, Quận Bình Tân, Thành phố Hồ Chí Minh",CCG_609
+Hồ Chí Minh,Quận Bình Tân,Phường Bình Hưng Hòa B,106.597815,10.815887,"97 Nguyễn Thị Tú, Bình Hưng Hòa B, Bình Tân, Tp.Hồ Chí Minh",CCG_610
+Hồ Chí Minh,Quận Bình Tân,Phường Bình Hưng Hòa B,106.59114148468,10.802030317043,"54 - 56 Đường số 3, khu dân cư Vĩnh Lộc, phường Bình Hưng Hoà B, quận Bình Tân, Thành phố Hồ Chí Minh",CCG_611
+Hồ Chí Minh,Quận Bình Tân,Phường Bình Trị Đông,106.6140366,10.7578001," 631 Tỉnh lộ 10, P.Bình Trị Đông, Quận Bình Tân, TP Hồ Chí Minh",CCG_612
+Hồ Chí Minh,Quận Bình Tân,Phường Bình Trị Đông,106.61325,10.76984,"564A Hương Lộ 2, Khu Phô 6, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh",CCG_613
+Hồ Chí Minh,Quận Bình Tân,Phường Bình Trị Đông,106.6183309,10.7745068,"123 Lê Văn Quới, khu phố 2, Phường Bình Trị Đông, Quận Bình Tân, Thành Phố Hồ Chí Minh",CCG_614
+Hồ Chí Minh,Quận Bình Tân,Phường Bình Trị Đông A,106.586559,10.771699,"50B Tây Lân, Khu phố 7, phường Bình Trị Đông A, quận Bình Tân, Thành phố Hồ Chí Minh",CCG_615
+Hồ Chí Minh,Quận Bình Tân,Phường Bình Trị Đông B,106.613471,10.744088,"178-180 Tên Lửa, Phường Bình Trị Đông B, Quận Bình Tân, Thành phố Hồ Chí Minh",CCG_616
+Hồ Chí Minh,Quận Bình Tân,Phường Bình Trị Đông B,106.61115,10.75176,"333-335 Đường số 7, phường Bình Trị Đông B, quận Bình Tân, Thành phố Hồ Chí Minh",CCG_617
+Hồ Chí Minh,Quận Bình Tân,Phường Bình Trị Đông B,106.606989,10.758194,"2 Mã Lò, Khu phố 1, phường Bình Trị Đông A, quận Bình Tân, Thành phố Hồ Chí Minh",CCG_618
+Hồ Chí Minh,Quận Bình Tân,Phường Tân Tạo,106.60397,10.75417,"Số 2 Đường 40, phường Tân Tạo, quận Bình Tân, Thành phố Hồ Chí Minh",CCG_619
+Hồ Chí Minh,Quận Bình Tân,Phường Tân Tạo,106.6000738,10.7597638,"168 Lê Đình Cẩn, Khu phố 6, phường Tân Tạo, quận Bình Tân, Thành phố Hồ Chí Minh",CCG_620
+Hồ Chí Minh,Quận Bình Tân,Phường Tân Tạo A,106.5892117,10.7567145,"1355 Tỉnh Lộ 10, Phường Tân Tạo A, Quận Bình Tân, TP. Hồ Chí Minh (coming soon)",CCG_621
+Hồ Chí Minh,Quận Bình Tân,Phường Tân Tạo A,106.578555,10.7587325,"1647 Tỉnh lộ 10, Khu phố 5, Phường Tân Tạo A, Quận Bình Tân, Thành Phố Hồ Chí Minh",CCG_622
+Hồ Chí Minh,Quận Bình Tân,Phường Tân Tạo A,106.585001,10.748274,"4423 Nguyễn Cửu Phú, Khu phố 4, phường Tân Tạo A, quận Bình Tân, Thành phố Hồ Chí Minh",CCG_623
+Hồ Chí Minh,Quận Tân Bình,Phường 10,106.645773,10.784651,"191 Ni Sư Huỳnh Liên, Phường 10, quận Tân Bình, Thành phố Hồ Chí Minh",CCG_624
+Hồ Chí Minh,Quận Tân Bình,Phường 13,106.6433011,10.7981987,"304B Trường Chinh, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh",CCG_625
+Hồ Chí Minh,Quận Tân Bình,Phường 13,106.6460319,10.8017061,"241 Cộng Hòa, Phường 13, quận Tân Bình, Thành phố Hồ Chí Minh",CCG_626
+Hồ Chí Minh,Quận Tân Bình,Phường 14,106.6402283,10.79014206,"788 Âu Cơ, Phường 14, Quận Tân Bình, Tp.HCM",CCG_627
+Hồ Chí Minh,Quận Tân Bình,Phường 15,106.63214,10.82826,"91 Phan Huy Ích, Phường 15, Tân Bình, Hồ Chí Minh",CCG_628
+Hồ Chí Minh,Quận Tân Bình,Phường 15,106.6330045,10.8140538," 686 Trường Chinh, Phường 15, quận Tân Bình, Thành Phố Hồ Chí Minh",CCG_629
+Hồ Chí Minh,Quận Tân Bình,Phường 4,106.6587386,10.7966614," 9 Út Tịch, Phường 4, quận Tân Bình, Thành phố Hồ Chí Minh",CCG_630
+Hồ Chí Minh,Quận Tân Bình,Phường 5,106.661299,10.790136,"260 Phạm Văn Hai, Phường 5, Quận Tân Bình, Thành phố Hồ Chí Minh",CCG_631
+Hồ Chí Minh,Quận Phú Nhuận,Phường 11,106.679658,10.792416,"129 - 129A Huỳnh Văn Bánh, Phường 11, quận Phú Nhuận, Thành phố Hồ Chí Minh",CCG_632
+Hồ Chí Minh,Quận Phú Nhuận,Phường 14,106.6675003,10.7918584,"172 Đặng Văn Ngữ, Phường 14, quận Phú Nhuận, Thành phố Hồ Chí Minh",CCG_633
+Hồ Chí Minh,Quận Phú Nhuận,Phường 7,106.689428,10.803447,"55B Phan Đăng Lưu, Phường 7, quận Phú Nhuận, Thành phố Hồ Chí Minh",CCG_634
+Hồ Chí Minh,Quận Phú Nhuận,Phường 8,106.6734848,10.79969501,"191 Hoàng Văn Thụ, P.8, Quận Phú Nhuận, Tp.Hồ Chí Minh",CCG_635
+Hồ Chí Minh,Quận Bình Thạnh,Phường 12,106.69799,10.81728,"304A Nơ Trang Long, Phường 12, Quận Bình Thạnh, Thành phố Hồ Chí Minh (closed)",CCG_636
+Hồ Chí Minh,Quận Bình Thạnh,Phường 12,106.695667,10.811355,"170A Cư xá Bình Hòa, Nơ Trang Long, Phường 12, quận Bình Thạnh, Thành phố Hồ Chí Minh",CCG_637
+Hồ Chí Minh,Quận Bình Thạnh,Phường 13,106.7040266,10.8200704,"401 Nơ Trang Long, Phường 13, Quận Bình Thạnh, Tp.Hồ Chí Minh",CCG_638
+Hồ Chí Minh,Quận Bình Thạnh,Phường 14,106.6985821,10.8065597,"385 Bùi Đình Tuý, Phường 14, Bình Thạnh, Thành phố Hồ Chí Minh",CCG_639
+Hồ Chí Minh,Quận Bình Thạnh,Phường 19,106.7123641,10.7918468,"A009 Lô A (tầng trệt) chung cư, số 120-120B Ngô Tất Tố, Phường 19, quận Bình Thạnh, Thành phố Hồ Chí Minh",CCG_640
+Hồ Chí Minh,Quận Bình Thạnh,Phường 22,106.71853,10.79107,"GF-12A, Cao ốc Sapphire 2, Sai Gon Pearl, 92 Nguyễn Hữu Cảnh, Phường 22, Bình Thạnh, Hồ Chí Minh, Vietnam",CCG_641
+Hồ Chí Minh,Quận Bình Thạnh,Phường 25,106.7184661,10.8007526,"16 Nguyễn Văn Thương, Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh",CCG_642
+Hồ Chí Minh,Quận Bình Thạnh,Phường 25,106.714643,10.811456,"760 Xô Viết Nghệ Tĩnh, Phường 25, quận Bình Thạnh, Thành phố Hồ Chí Minh",CCG_643
+Hồ Chí Minh,Quận Bình Thạnh,Phường 7,106.6882954,10.8084786," 84 Nguyễn Văn Đậu, Phường 7, Quận Bình Thạnh, Thành phố Hồ Chí Minh",CCG_644
+Hồ Chí Minh,Quận Bình Thạnh,Phường 7,106.6914261,10.810853,"307B - 307D Lê Quang Định, Phường 7, quận Bình Thạnh, Thành phố Hồ Chí Minh",CCG_645
+Hồ Chí Minh,Huyện Củ Chi,Xã An Nhơn Tây,106.4836008,10.970053,"864 Quốc Lộ 22, Khu phố 2, H. Củ Chi, Tp.Hồ Chí Minh",CCG_646
+Hồ Chí Minh,Huyện Củ Chi,Xã An Nhơn Tây,106.514237,11.088602,"978 Tỉnh Lộ 15, ấp Chợ Cũ, xã An Nhơn Tây, huyện Củ Chi, Thành phố Hồ Chí Minh",CCG_647
+Hồ Chí Minh,Huyện Củ Chi,Thị Trấn Củ Chi,106.48984,10.97049,"47 Tỉnh Lộ 8, Thị trấn Củ Chi, Huyện Củ Chi, Thành phố Hồ Chí Minh",CCG_648
+Hồ Chí Minh,Huyện Củ Chi,Xã Tân Phú Trung,106.5498581,10.93476582,"158 Quốc Lộ 22, Ấp Đình, Xã Tân Phú Trung, huyện Củ Chi, thành phố Hồ Chí Minh",CCG_649
+Hồ Chí Minh,Huyện Củ Chi,Xã Tân Thạnh Đông,106.597817,10.959198,"425 Tỉnh lộ 15, Tổ 4, Ấp 8, Xã Tân Thạnh Đông, Huyện Củ Chi, Thành phố Hồ Chí Minh",CCG_650
+Hồ Chí Minh,Huyện Củ Chi,Xã Tân Thạnh Đông,106.60613,10.94726,"266A Tỉnh Lộ 15, tổ 5, ấp 11, xã Tân Thạnh Đông, huyện Củ Chi, Thành phố Hồ Chí Minh",CCG_651
+Hồ Chí Minh,Huyện Củ Chi,Xã Tân Thạnh Tây,106.5733986,10.9838295,"73 Tỉnh Lộ 8, xã Tân Thạnh Tây, huyện Củ Chi, Thành phố Hồ Chí Minh",CCG_652
+Hồ Chí Minh,Huyện Củ Chi,Xã Tân Thông Hội,106.523761,10.947711,"60 Quốc lộ 22, ấp Bàu Sim, xã Tân Thông Hội, huyện Củ Chi, Thành phố Hồ Chí Minh",CCG_653
+Hồ Chí Minh,Huyện Nhà Bè,Xã Hiệp Phước,106.75377,10.67821,"12/12 đường Nguyễn Bình, Tổ 9, Ấp 3 xã Phú Xuân, huyện Nhà Bè, Thành phố Hồ Chí Minh",CCG_654
+Hồ Chí Minh,Huyện Nhà Bè,Xã Hiệp Phước,106.7358448,10.6320211,"786 Nguyễn Văn Tạo, Ấp 1, Xã Hiệp Phước, Huyện Nhà Bè, Thành phố Hồ Chí Minh.",CCG_655
+Hồ Chí Minh,Huyện Nhà Bè,Xã Long Thới,106.732199,10.644294,"546 Nguyễn Văn Tạo, Ấp 1, xã Long Thới, huyện Nhà Bè, Thành phố Hồ Chí Minh.",CCG_656
+Hồ Chí Minh,Huyện Nhà Bè,Thị Trấn Nhà Bè,106.739361,10.6965575,"1842A Huỳnh Tấn Phát, Khu phố 6, Thị trấn Nhà Bè, huyện Nhà Bè, Thành phố Hồ Chí Minh",CCG_657
+Hồ Chí Minh,Huyện Nhà Bè,Xã Phước Kiển,106.70046,10.71519,"902 Lê Văn Lương, xã Phước Kiển, Huyện Nhà Bè, Thành phố Hồ Chí Minh",CCG_658
+Hồ Chí Minh,Huyện Hóc Môn,Xã Bà Điểm,106.6001218,10.8460615,"Số 88/4 Nguyễn Ảnh Thủ, ấp Tây Lân, xã Bà Điểm, huyện Hóc Môn, tp.Hồ Chí Minh.",CCG_659
+Hồ Chí Minh,Huyện Hóc Môn,Thị Trấn Hóc Môn,106.6008464,10.8878966,"6/11A Quang Trung, Hóc Môn, Hóc Môn, TP Hồ Chí Minh",CCG_660
+Hồ Chí Minh,Huyện Hóc Môn,Xã Tân Hiệp,106.599785,10.902288,"27/4A Đỗ Văn Dậy, ấp Tân Thới 1, xã Tân Hiệp, huyện Hóc Môn, Thành phố Hồ Chí Minh",CCG_661
+Hồ Chí Minh,Huyện Hóc Môn,Xã Tân Thới Nhì,106.5883785,10.8925035,"Số 91/11A Lê Lợi, ấp Dân Thắng 2, xã Tân Thới Nhì, Huyện Hóc Môn, Thành phố Hồ Chí Minh",CCG_662
+Hồ Chí Minh,Huyện Hóc Môn,Xã Tân Thới Nhì,106.58076,10.8926,"66/7 Ấp Dân Thắng 1, xã Tân Thới Nhì, Huyện Hóc Môn, Thành Phố Hồ Chí Minh",CCG_663
+Hồ Chí Minh,Huyện Hóc Môn,Xã Thới Tam Thôn,106.615438,10.891473,"14/5 Đặng Thúc Vịnh, ấp Trung Đông 1, xã Thới Tam Thôn, huyện Hóc Môn, Thành phố Hồ Chí Minh",CCG_664
+Hồ Chí Minh,Huyện Hóc Môn,Xã Xuân Thới Thượng,106.58702,10.85035,"149 Phan Văn Hớn, ấp 7, Xã Xuân Thới Thượng, Huyện Hóc Môn, Tp.Hồ Chí Minh",CCG_665
+Hồ Chí Minh,Huyện Hóc Môn,Xã Xuân Thới Thượng,106.569089,10.8628,"39 Phan Văn Hớn, ấp 4, xã Xuân Thới Thượng, huyện Hóc Môn, Thành phố Hồ Chí Minh",CCG_666
+Hồ Chí Minh,Huyện Cần Giờ,Thị Trấn Cần Thạnh,106.967954,10.41212,"451/2A Đào Cử, Khu phố Miễu Nhì, Thị trấn Cần Thạnh, huyện Cần Giờ, Thành phố Hồ Chí Minh",CCG_667
+Hồ Chí Minh,Huyện Bình Chánh,Xã An Phú Tây,106.59561,10.68666,"326A/13 An Phú Tây - Hưng Long , ấp 1, xã An Phú Tây, huyện Bình Chánh, thành phố Hồ Chí Minh",CCG_668
+Hồ Chí Minh,Huyện Bình Chánh,Xã Bình Chánh,106.5716476,10.66589737,"D1B Ấp 4, Xã Bình Chánh, H. Bình Chánh, Thành phố Hồ Chí Minh",CCG_669
+Hồ Chí Minh,Huyện Bình Chánh,Xã Bình Chánh,106.6560287,10.73038387,"A3/15 Ấp 2, Xã Bình Hưng, H.Bình Chánh, Thành phố Hồ Chí Minh",CCG_670
+Hồ Chí Minh,Huyện Bình Chánh,Xã Bình Chánh,106.6723099,10.73536682,"C1/20A Phạm Hùng, Ấp 4, Xã Bình Hưng, H.Bình Chánh, Thành phố Hồ Chí Minh",CCG_671
+Hồ Chí Minh,Huyện Bình Chánh,Xã Bình Chánh,106.57556,10.66162,"D12/37  Đinh Đức Thiện, Ấp 4, xã Bình Chánh, huyện Bình Chánh, Thành Phố Hồ Chí Minh",CCG_672
+Hồ Chí Minh,Huyện Bình Chánh,Xã Bình Hưng,106.6558245,10.7187551,"B15/7 Quốc Lộ 50, ấp 3A, xã Bình Hưng, huyện Bình Chánh, Thành phố Hồ Chí Minh",CCG_673
+Hồ Chí Minh,Huyện Bình Chánh,Xã Hưng Long,106.607313,10.658747,"1084 Đoàn Nguyễn Tuấn, Ấp 4, xã Hưng Long, huyện Bình Chánh, Thành phố Hồ Chí Minh",CCG_674
+Hồ Chí Minh,Huyện Bình Chánh,Xã Lê Minh Xuân,106.516334,10.787892,"A4/4A Trần Văn Giàu, Ấp 1, xã Lê Minh Xuân, huyện Bình Chánh, Thành phố Hồ Chí Minh",CCG_675
+Hồ Chí Minh,Huyện Bình Chánh,Xã Lê Minh Xuân,106.548504,10.739696,"G16/21 Trần Đại Nghĩa, Ấp 7, xã Lê Minh Xuân, huyện Bình Chánh, Thành phố Hồ Chí Minh",CCG_676
+Hồ Chí Minh,Huyện Bình Chánh,Xã Phong Phú,106.65472,10.69089,"B6/190 Quốc Lộ 50, Ấp 2, Xã Phong Phú, huyện Bình Chánh, Thành Phố Hồ Chí Minh",CCG_677
+Hồ Chí Minh,Huyện Bình Chánh,Xã Tân Kiên,106.598446,10.723313,"B5/4A - B5/5 Trần Đại Nghĩa, Xã Tân Kiên, Huyện Bình Chánh, Thành phố Hồ Chí Minh",CCG_678
+Hồ Chí Minh,Huyện Bình Chánh,Xã Tân Kiên,106.5936508,10.7132215,"223 Hưng Nhơn, Ấp 3, xã Tân Kiên, huyện Bình Chánh, Thành phố Hồ Chí Minh",CCG_679
+Hồ Chí Minh,Huyện Bình Chánh,Thị Trấn Tân Túc,106.59399,10.69637,"E9/9 Nguyễn Hữu Trí, Khu phố 5, Thị trấn Tân Túc, huyện Bình Chánh, Thành phố Hồ Chí Minh",CCG_680
+Hồ Chí Minh,Huyện Bình Chánh,Xã Vĩnh Lộc A,106.585259,10.828837,"Số E9/6A Thới Hòa, Ấp 5, xã Vĩnh Lộc A, huyện Bình Chánh, Thành phố Hồ Chí Minh",CCG_681
+Hồ Chí Minh,Huyện Bình Chánh,Xã Vĩnh Lộc A,106.570542,10.832715,"D13/40A Phạm Văn Sáng, Ấp 4, Xã Vĩnh Lộc A, Huyện Bình Chánh, Hồ Chí Minh",CCG_682
+Hồ Chí Minh,Huyện Bình Chánh,Xã Vĩnh Lộc A,106.574041,10.8180932,"F2/29R - F3/221K2 Liên ấp 2-6, Ấp 6, xã Vĩnh Lộc A, huyện Bình Chánh, Thành phố Hồ Chí Minh",CCG_683
+Hồ Chí Minh,Huyện Bình Chánh,Xã Vĩnh Lộc B,106.5743793,10.8102356,"2090 Vĩnh Lộc, Ấp 4, xã Vĩnh Lộc B, huyện Bình Chánh, Thành phố Hồ Chí Minh",CCG_684
